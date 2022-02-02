@@ -33,8 +33,8 @@ func serverNordVPN() {
 	password := "qRhXR6k8yW4pcW71c34ReDW3"
 	port := "1080"
 
-	ip, flag := "109.202.99.35", "NL"
-	//ip, flag := "165.231.210.155", "US"
+	//ip, flag := "109.202.99.35", "NL"
+	ip, flag := "165.231.210.171", "US"
 	//ip, flag := "196.196.244.3", "SE"
 	//ip, flag := "196.196.192.11", "IE"
 
