@@ -1,0 +1,2000 @@
+5029E,ALCATEL,3L (2020),SmartPhone
+Joy 3,Vsmart,Joy 3,SmartPhone
+5030D,ALCATEL,1SE (2020),SmartPhone
+5030F,ALCATEL,1SE (2020),SmartPhone
+LM-Q710(FGN),LG,Stylo 4,SmartPhone
+Active 3,Vsmart,Active 3,SmartPhone
+Armor X7 Pro,Ulefone,Armor X7 Pro,SmartPhone
+POCO F1,Xiaomi,POCO F1,SmartPhone
+CLT-L04,Huawei,P20 Pro,SmartPhone
+CLT-L29,Huawei,P20 Pro,SmartPhone
+CLT-L29,Huawei,P20 Pro,SmartPhone
+CLT-L29,Huawei,P20 Pro,SmartPhone
+COL-L29,Huawei,Honor 10,SmartPhone
+COL-L29,Huawei,Honor 10,SmartPhone
+COL-L29,Huawei,Honor 10,SmartPhone
+CPH1819,OPPO,F7,SmartPhone
+CPH1819,OPPO,F7,SmartPhone
+CPH1823,OPPO,F9 Pro,SmartPhone
+CPH1823,OPPO,F9 Pro,SmartPhone
+CPH1823,OPPO,F9 Pro,SmartPhone
+CPH1825,OPPO,F9,SmartPhone
+CPH1931,OPPO,A5 2020,SmartPhone
+CPH1937,OPPO,A9 2020,SmartPhone
+CPH1937,OPPO,A9 2020,SmartPhone
+CPH1937,OPPO,A9 2020,SmartPhone
+CPH1941,OPPO,A9 2020,SmartPhone
+CPH1941,OPPO,A9 2020,SmartPhone
+CPH1941,OPPO,A9 2020,SmartPhone
+CPH1941,OPPO,A9 2020,SmartPhone
+CPH1943,OPPO,A5 2020,SmartPhone
+CPH1989,OPPO,Reno2 F,SmartPhone
+CPH2059,OPPO,A92,SmartPhone
+Generic Android,Unknown,Generic Android,SmartPhone
+Generic Android,Unknown,Generic Android,SmartPhone
+CPH2127,OPPO,A53,SmartPhone
+CPH2127,OPPO,A53,SmartPhone
+CPH2127,OPPO,A53,SmartPhone
+CPH2127,OPPO,A53,SmartPhone
+CPH2127,OPPO,A53,SmartPhone
+CPH2127,OPPO,A53,SmartPhone
+CPH2127,OPPO,A53,SmartPhone
+CPH2127,OPPO,A53,SmartPhone
+CPH2127,OPPO,A53,SmartPhone
+CPH2127,OPPO,A53,SmartPhone
+LM-X210(G),LG,Aristo 2,SmartPhone
+LM-X210(G),LG,Aristo 2,SmartPhone
+LM-X210(G),LG,Aristo 2,SmartPhone
+Moto G (7th Gen.),Motorola,Moto G (7th Gen.),SmartPhone
+Moto G (7th Gen.),Motorola,Moto G (7th Gen.),SmartPhone
+Moto G (7th Gen.),Motorola,Moto G (7th Gen.),SmartPhone
+Moto G (7th Gen.),Motorola,Moto G (7th Gen.),SmartPhone
+LM-X210(G),LG,Aristo 2,SmartPhone
+LM-X210(G),LG,Aristo 2,SmartPhone
+LM-X210(G),LG,Aristo 2,SmartPhone
+LM-X210(G),LG,Aristo 2,SmartPhone
+Moto G (7th Gen.),Motorola,Moto G (7th Gen.),SmartPhone
+LM-X210(G),LG,Aristo 2,SmartPhone
+LM-X210(G),LG,Aristo 2,SmartPhone
+LM-X210(G),LG,Aristo 2,SmartPhone
+ELE-L29,Huawei,P30,SmartPhone
+HRY-LX1,Huawei,Honor 10 Lite,SmartPhone
+INFINITY H40 Lite,Hisense,INFINITY H40 Lite,SmartPhone
+I4113,Sony,Xperia 10,SmartPhone
+X655C,Infinix,HOT 9,SmartPhone
+X656,Infinix,Note 7 Lite,SmartPhone
+Generic Android,Unknown,Generic Android,SmartPhone
+Generic Android,Unknown,Generic Android,SmartPhone
+X680B,Infinix,HOT 9 PLAY,SmartPhone
+X680B,Infinix,HOT 9 PLAY,SmartPhone
+X656,Infinix,Note 7 Lite,SmartPhone
+X656,Infinix,Note 7 Lite,SmartPhone
+X690,Infinix,Note 7,SmartPhone
+X656,Infinix,Note 7 Lite,SmartPhone
+JSN-L22,Huawei,Honor 8X,SmartPhone
+Joy 3,Vsmart,Joy 3,SmartPhone
+KOB2-L09,Huawei,MatePad T 8,Tablet
+LM-G820,LG,G8 ThinQ,SmartPhone
+LM-X210(G),LG,Aristo 2,SmartPhone
+LM-X210(G),LG,Aristo 2,SmartPhone
+LM-X210(G),LG,Aristo 2,SmartPhone
+LM-X210(G),LG,Aristo 2,SmartPhone
+LM-X210(G),LG,Aristo 2,SmartPhone
+Generic Android,Unknown,Generic Android,SmartPhone
+LM-X210(G),LG,Aristo 2,SmartPhone
+LM-X210(G),LG,Aristo 2,SmartPhone
+LM-Q730,LG,Stylo 6,SmartPhone
+LM-Q730,LG,Stylo 6,SmartPhone
+LM-V405,LG,V40 ThinQ,SmartPhone
+LM-X210(G),LG,Aristo 2,SmartPhone
+LM-X210(G),LG,Aristo 2,SmartPhone
+LM-X210(G),LG,Aristo 2,SmartPhone
+LM-X210(G),LG,Aristo 2,SmartPhone
+LM-X210(G),LG,Aristo 2,SmartPhone
+LM-X210(G),LG,Aristo 2,SmartPhone
+P2a42,Lenovo,P2,SmartPhone
+P2a42,Lenovo,P2,SmartPhone
+P2a42,Lenovo,P2,SmartPhone
+M2002J9G,Xiaomi,Mi 10 Lite 5G,SmartPhone
+M2003J15SC,Xiaomi,Redmi 10X 4G,SmartPhone
+M2003J15SC,Xiaomi,Redmi 10X 4G,SmartPhone
+M2003J15SC,Xiaomi,Redmi 10X 4G,SmartPhone
+M2003J15SC,Xiaomi,Redmi 10X 4G,SmartPhone
+M2003J15SC,Xiaomi,Redmi 10X 4G,SmartPhone
+M2003J15SC,Xiaomi,Redmi 10X 4G,SmartPhone
+M2003J15SC,Xiaomi,Redmi 10X 4G,SmartPhone
+M2003J15SC,Xiaomi,Redmi 10X 4G,SmartPhone
+M2003J15SC,Xiaomi,Redmi 10X 4G,SmartPhone
+M2003J15SC,Xiaomi,Redmi 10X 4G,SmartPhone
+M2003J15SC,Xiaomi,Redmi 10X 4G,SmartPhone
+M2003J15SC,Xiaomi,Redmi 10X 4G,SmartPhone
+M2003J15SC,Xiaomi,Redmi 10X 4G,SmartPhone
+M2004J19C,Xiaomi,Redmi 9,SmartPhone
+M2004J19C,Xiaomi,Redmi 9,SmartPhone
+M2004J19C,Xiaomi,Redmi 9,SmartPhone
+M2004J19C,Xiaomi,Redmi 9,SmartPhone
+M2004J19C,Xiaomi,Redmi 9,SmartPhone
+M2004J19C,Xiaomi,Redmi 9,SmartPhone
+M2004J19C,Xiaomi,Redmi 9,SmartPhone
+M2004J19C,Xiaomi,Redmi 9,SmartPhone
+M2004J19C,Xiaomi,Redmi 9,SmartPhone
+M2004J19C,Xiaomi,Redmi 9,SmartPhone
+M2004J19C,Xiaomi,Redmi 9,SmartPhone
+M2004J19C,Xiaomi,Redmi 9,SmartPhone
+M2004J19C,Xiaomi,Redmi 9,SmartPhone
+M2004J19C,Xiaomi,Redmi 9,SmartPhone
+M2004J19C,Xiaomi,Redmi 9,SmartPhone
+M2004J19C,Xiaomi,Redmi 9,SmartPhone
+M2004J19C,Xiaomi,Redmi 9,SmartPhone
+M2004J19C,Xiaomi,Redmi 9,SmartPhone
+M2006C3LG ,Xiaomi,Redmi 9A,SmartPhone
+M2006C3LG ,Xiaomi,Redmi 9A,SmartPhone
+M2006C3LG ,Xiaomi,Redmi 9A,SmartPhone
+M2006C3LG ,Xiaomi,Redmi 9A,SmartPhone
+M2006C3LG ,Xiaomi,Redmi 9A,SmartPhone
+M2006C3LG ,Xiaomi,Redmi 9A,SmartPhone
+M2006C3LG ,Xiaomi,Redmi 9A,SmartPhone
+M2006C3LG ,Xiaomi,Redmi 9A,SmartPhone
+M2006C3LG ,Xiaomi,Redmi 9A,SmartPhone
+M2006C3LG ,Xiaomi,Redmi 9A,SmartPhone
+M2006C3LG ,Xiaomi,Redmi 9A,SmartPhone
+M2006C3LG ,Xiaomi,Redmi 9A,SmartPhone
+M2006C3LG ,Xiaomi,Redmi 9A,SmartPhone
+M2006C3LG ,Xiaomi,Redmi 9A,SmartPhone
+M2006C3LG ,Xiaomi,Redmi 9A,SmartPhone
+M2006C3LG ,Xiaomi,Redmi 9A,SmartPhone
+M2006C3LG ,Xiaomi,Redmi 9A,SmartPhone
+M2006C3MG,Xiaomi,Redmi 9C,SmartPhone
+M2006C3MG,Xiaomi,Redmi 9C,SmartPhone
+M2006C3MG,Xiaomi,Redmi 9C,SmartPhone
+M2006C3MG,Xiaomi,Redmi 9C,SmartPhone
+M2006C3MG,Xiaomi,Redmi 9C,SmartPhone
+M2006C3MG,Xiaomi,Redmi 9C,SmartPhone
+M2006C3MG,Xiaomi,Redmi 9C,SmartPhone
+M2006C3MNG,Xiaomi,Redmi 9C NFC,SmartPhone
+M2006C3MNG,Xiaomi,Redmi 9C NFC,SmartPhone
+M2006C3MG,Xiaomi,Redmi 9C,SmartPhone
+M2006C3MG,Xiaomi,Redmi 9C,SmartPhone
+M2006C3MG,Xiaomi,Redmi 9C,SmartPhone
+M2006C3MG,Xiaomi,Redmi 9C,SmartPhone
+M2007J20CG,Xiaomi,POCO X3 NFC,SmartPhone
+M2007J20CG,Xiaomi,POCO X3 NFC,SmartPhone
+M2007J20CG,Xiaomi,POCO X3 NFC,SmartPhone
+M2007J20CG,Xiaomi,POCO X3 NFC,SmartPhone
+NEX A,Vivo,NEX,SmartPhone
+NEX A,Vivo,NEX,SmartPhone
+Generic Android,Unknown,Generic Android,SmartPhone
+Generic Android,Unknown,Generic Android,SmartPhone
+Generic Android,Unknown,Generic Android,SmartPhone
+Generic Android,Unknown,Generic Android,SmartPhone
+Generic Android,Unknown,Generic Android,SmartPhone
+Generic Android,Unknown,Generic Android,SmartPhone
+Generic Android,Unknown,Generic Android,SmartPhone
+Generic Android,Unknown,Generic Android,SmartPhone
+Generic Android,Unknown,Generic Android,SmartPhone
+Generic Android,Unknown,Generic Android,SmartPhone
+Generic Android,Unknown,Generic Android,SmartPhone
+Generic Android,Unknown,Generic Android,SmartPhone
+MAR-LX1A,Huawei,P30 lite,SmartPhone
+MAR-LX1A,Huawei,P30 lite,SmartPhone
+MAR-LX1H,Huawei,HONOR 20S,SmartPhone
+MAR-LX1M,Huawei,P30 lite,SmartPhone
+MAR-LX2J,Huawei,P30 lite,SmartPhone
+MAR-LX3A,Huawei,MAR-LX3A,SmartPhone
+MAR-LX3A,Huawei,MAR-LX3A,SmartPhone
+MAR-LX3A,Huawei,MAR-LX3A,SmartPhone
+Mi 9,Xiaomi,Mi 9,SmartPhone
+9T,Xiaomi,9T,SmartPhone
+Mi A2,Xiaomi,Mi A2,SmartPhone
+Mi A2,Xiaomi,Mi A2,SmartPhone
+Mi A3,Xiaomi,Mi A3,SmartPhone
+Mi A3,Xiaomi,Mi A3,SmartPhone
+Nokia 7 Plus,HMD Global,Nokia 7 Plus,SmartPhone
+Nokia 7 Plus,HMD Global,Nokia 7 Plus,SmartPhone
+Nokia C2 Tennen,HMD Global,Nokia C2 Tennen,SmartPhone
+A6010,Oneplus,6T,SmartPhone
+POCO F1,Xiaomi,POCO F1,SmartPhone
+Pixel 3a XL,Google,Pixel 3a XL,SmartPhone
+RMX1801,Realme,2 Pro,SmartPhone
+RMX1821,Realme,3,SmartPhone
+RMX1821,Realme,3,SmartPhone
+RMX1853,Realme,3 Pro,SmartPhone
+RMX1911,Realme,5,SmartPhone
+RMX1921,Realme,XT,SmartPhone
+RMX1925,Realme,5S,SmartPhone
+RMX1971,Realme,5 Pro,SmartPhone
+RMX1971,Realme,5 Pro,SmartPhone
+RMX2001,Realme,realme 6,SmartPhone
+RMX2020,Realme,C3,SmartPhone
+RMX2020,Realme,C3,SmartPhone
+RMX2020,Realme,C3,SmartPhone
+RMX2021,Realme,C3,SmartPhone
+RMX2021,Realme,C3,SmartPhone
+RMX2030,Realme,5i ,SmartPhone
+RMX2030,Realme,5i ,SmartPhone
+RMX2030,Realme,5i ,SmartPhone
+RMX2030,Realme,5i ,SmartPhone
+RMX2030,Realme,5i ,SmartPhone
+RMX2030,Realme,5i ,SmartPhone
+RMX2032,Realme,5i ,SmartPhone
+LM-X210(G),LG,Aristo 2,SmartPhone
+LM-X210(G),LG,Aristo 2,SmartPhone
+RMX2180,Realme,C15,SmartPhone
+RMX2180,Realme,C15,SmartPhone
+RMX2185,Realme,C11,SmartPhone
+RMX2185,Realme,C11,SmartPhone
+RMX2189,Realme,C12 ,SmartPhone
+RMX2189,Realme,C12 ,SmartPhone
+RMX2189,Realme,C12 ,SmartPhone
+LM-X210(G),LG,Aristo 2,SmartPhone
+LM-X210(G),LG,Aristo 2,SmartPhone
+LM-X210(G),LG,Aristo 2,SmartPhone
+LM-X210(G),LG,Aristo 2,SmartPhone
+Redmi 7,Xiaomi,Redmi 7,SmartPhone
+Redmi 7,Xiaomi,Redmi 7,SmartPhone
+Redmi 7,Xiaomi,Redmi 7,SmartPhone
+Redmi 7,Xiaomi,Redmi 7,SmartPhone
+Redmi 7,Xiaomi,Redmi 7,SmartPhone
+Redmi Note 9 Pro Max,Xiaomi,Redmi Note 9 Pro Max,SmartPhone
+Redmi 8,Xiaomi,Redmi 8,SmartPhone
+Redmi 8,Xiaomi,Redmi 8,SmartPhone
+Redmi 8,Xiaomi,Redmi 8,SmartPhone
+Redmi 8,Xiaomi,Redmi 8,SmartPhone
+Redmi 8,Xiaomi,Redmi 8,SmartPhone
+Redmi 8,Xiaomi,Redmi 8,SmartPhone
+Redmi 8,Xiaomi,Redmi 8,SmartPhone
+Redmi Note 9 Pro Max,Xiaomi,Redmi Note 9 Pro Max,SmartPhone
+Redmi Note 9 Pro Max,Xiaomi,Redmi Note 9 Pro Max,SmartPhone
+Redmi Note 9 Pro Max,Xiaomi,Redmi Note 9 Pro Max,SmartPhone
+Redmi Note 9 Pro Max,Xiaomi,Redmi Note 9 Pro Max,SmartPhone
+Redmi Note 7,Xiaomi,Redmi Note 7,SmartPhone
+Redmi Note 7,Xiaomi,Redmi Note 7,SmartPhone
+Redmi Note 7,Xiaomi,Redmi Note 7,SmartPhone
+Redmi Note 7,Xiaomi,Redmi Note 7,SmartPhone
+Redmi Note 7,Xiaomi,Redmi Note 7,SmartPhone
+Redmi Note 7,Xiaomi,Redmi Note 7,SmartPhone
+Redmi Note 7,Xiaomi,Redmi Note 7,SmartPhone
+Redmi Note 7,Xiaomi,Redmi Note 7,SmartPhone
+Redmi Note 7,Xiaomi,Redmi Note 7,SmartPhone
+Redmi Note 7,Xiaomi,Redmi Note 7,SmartPhone
+Redmi Note 7,Xiaomi,Redmi Note 7,SmartPhone
+Redmi Note 7S,Xiaomi,Redmi Note 7S,SmartPhone
+Redmi Note 8 Pro,Xiaomi,Redmi Note 8 Pro,SmartPhone
+Redmi Note 8 Pro,Xiaomi,Redmi Note 8 Pro,SmartPhone
+Redmi Note 9 Pro Max,Xiaomi,Redmi Note 9 Pro Max,SmartPhone
+Redmi Note 9 Pro Max,Xiaomi,Redmi Note 9 Pro Max,SmartPhone
+Redmi Note 9 Pro Max,Xiaomi,Redmi Note 9 Pro Max,SmartPhone
+Redmi Note 8,Xiaomi,Redmi Note 8,SmartPhone
+Redmi Note 8,Xiaomi,Redmi Note 8,SmartPhone
+Redmi Note 8,Xiaomi,Redmi Note 8,SmartPhone
+Redmi Note 8,Xiaomi,Redmi Note 8,SmartPhone
+Redmi Note 9 Pro Max,Xiaomi,Redmi Note 9 Pro Max,SmartPhone
+Redmi Note 9 Pro Max,Xiaomi,Redmi Note 9 Pro Max,SmartPhone
+Redmi Note 9 Pro Max,Xiaomi,Redmi Note 9 Pro Max,SmartPhone
+Redmi Note 9 Pro Max,Xiaomi,Redmi Note 9 Pro Max,SmartPhone
+Redmi Note 9 Pro Max,Xiaomi,Redmi Note 9 Pro Max,SmartPhone
+Redmi Note 9 Pro,Xiaomi,Redmi Note 9 Pro,SmartPhone
+Redmi Note 9 Pro Max,Xiaomi,Redmi Note 9 Pro Max,SmartPhone
+Redmi Note 9 Pro Max,Xiaomi,Redmi Note 9 Pro Max,SmartPhone
+Redmi Note 9 Pro Max,Xiaomi,Redmi Note 9 Pro Max,SmartPhone
+Redmi Note 9 Pro Max,Xiaomi,Redmi Note 9 Pro Max,SmartPhone
+Redmi Note 9 Pro Max,Xiaomi,Redmi Note 9 Pro Max,SmartPhone
+Redmi 5 Plus,Xiaomi,Redmi 5 Plus,SmartPhone
+S3-SH,Sharp,S3,SmartPhone
+S42,iTel,S42,SmartPhone
+SM-A015M,Samsung,Galaxy A01,SmartPhone
+SM-A015M,Samsung,Galaxy A01,SmartPhone
+SM-A015M,Samsung,Galaxy A01,SmartPhone
+SM-A015M,Samsung,Galaxy A01,SmartPhone
+SM-A102U1,Samsung,Galaxy A10e,SmartPhone
+SM-A102U1,Samsung,Galaxy A10e,SmartPhone
+SM-A105FN,Samsung,Galaxy A10,SmartPhone
+SM-A105M,Samsung,Galaxy A10,SmartPhone
+SM-A105M,Samsung,Galaxy A10,SmartPhone
+SM-A105M,Samsung,Galaxy A10,SmartPhone
+SM-A105M,Samsung,Galaxy A10,SmartPhone
+SM-A107F,Samsung,Galaxy A10S,SmartPhone
+SM-A115F,Samsung,Galaxy A11,SmartPhone
+SM-T290,Samsung,Galaxy Tab A (8.0", 2019, Wi-Fi),Tablet
+SM-T290,Samsung,Galaxy Tab A (8.0", 2019, Wi-Fi),Tablet
+SM-A207F,Samsung,Galaxy A20s,SmartPhone
+SM-A207M,Samsung,Galaxy A20s,SmartPhone
+SM-A217F,Samsung,Galaxy A21s,SmartPhone
+SM-A750FN,Samsung,Galaxy A7 (2018),SmartPhone
+SM-A920F,Samsung,Galaxy A9,SmartPhone
+SM-A920F,Samsung,Galaxy A9,SmartPhone
+SM-G398FN,Samsung,Galaxy XCover 4s,SmartPhone
+SM-G960F,Samsung,Galaxy S9,SmartPhone
+SM-G960F,Samsung,Galaxy S9,SmartPhone
+SM-J600FN,Samsung,Galaxy J6 (2018) Dual SIM,SmartPhone
+SM-J600GT,Samsung,Galaxy J6,SmartPhone
+SM-M115F,Samsung,Galaxy M11,SmartPhone
+SM-N960F,Samsung,Galaxy Note9,SmartPhone
+SM-N960F,Samsung,Galaxy Note9,SmartPhone
+SM-S111DL,Samsung,Galaxy A01,SmartPhone
+SM-S215DL,Samsung,Galaxy A21,SmartPhone
+SC-02L,DoCoMo,Galaxy Feel2 SC-02L,SmartPhone
+SCV39,KDDI,Galaxy S9+,SmartPhone
+SCV43,KDDI,Galaxy A30,SmartPhone
+SCV43,KDDI,Galaxy A30,SmartPhone
+SCV48,KDDI,Galaxy A41,SmartPhone
+SCV48,KDDI,Galaxy A41,SmartPhone
+SHV42,KDDI,AQUOS R2,SmartPhone
+SHV43,Sharp,AQUOS Sense2 SHV43,SmartPhone
+SM-A013F,Samsung,Galaxy A01 Core,SmartPhone
+SM-A013G,Samsung,Galaxy A01 Core,SmartPhone
+SM-A013G,Samsung,Galaxy A01 Core,SmartPhone
+SM-A013M,Samsung,Galaxy A01 Core,SmartPhone
+SM-A013M,Samsung,Galaxy A01 Core,SmartPhone
+SM-A013M,Samsung,Galaxy A01 Core,SmartPhone
+SM-A015M,Samsung,Galaxy A01,SmartPhone
+SM-A015M,Samsung,Galaxy A01,SmartPhone
+SM-A015M,Samsung,Galaxy A01,SmartPhone
+SM-A015M,Samsung,Galaxy A01,SmartPhone
+SM-A015M,Samsung,Galaxy A01,SmartPhone
+Star 3,Vsmart,Star 3,SmartPhone
+Star 3,Vsmart,Star 3,SmartPhone
+Star 3,Vsmart,Star 3,SmartPhone
+Star 3,Vsmart,Star 3,SmartPhone
+Star 3,Vsmart,Star 3,SmartPhone
+Star 3,Vsmart,Star 3,SmartPhone
+Star 3,Vsmart,Star 3,SmartPhone
+Star 3,Vsmart,Star 3,SmartPhone
+Star 3,Vsmart,Star 3,SmartPhone
+SM-A105F,Samsung,Galaxy A10,SmartPhone
+SM-A105F,Samsung,Galaxy A10,SmartPhone
+SM-A105F,Samsung,Galaxy A10,SmartPhone
+SM-A105F,Samsung,Galaxy A10,SmartPhone
+SM-A105F,Samsung,Galaxy A10,SmartPhone
+SM-A105F,Samsung,Galaxy A10,SmartPhone
+SM-A105F,Samsung,Galaxy A10,SmartPhone
+SM-A105F,Samsung,Galaxy A10,SmartPhone
+SM-A105F,Samsung,Galaxy A10,SmartPhone
+SM-A105F,Samsung,Galaxy A10,SmartPhone
+SM-A105F,Samsung,Galaxy A10,SmartPhone
+SM-A105F,Samsung,Galaxy A10,SmartPhone
+SM-A105F,Samsung,Galaxy A10,SmartPhone
+SM-A105F,Samsung,Galaxy A10,SmartPhone
+SM-A105F,Samsung,Galaxy A10,SmartPhone
+SM-A105F,Samsung,Galaxy A10,SmartPhone
+SM-A105F,Samsung,Galaxy A10,SmartPhone
+SM-A105FN,Samsung,Galaxy A10,SmartPhone
+SM-A105FN,Samsung,Galaxy A10,SmartPhone
+SM-A105FN,Samsung,Galaxy A10,SmartPhone
+SM-A105FN,Samsung,Galaxy A10,SmartPhone
+SM-A105FN,Samsung,Galaxy A10,SmartPhone
+SM-A105FN,Samsung,Galaxy A10,SmartPhone
+SM-A105FN,Samsung,Galaxy A10,SmartPhone
+SM-A105G,Samsung,Galaxy A10,SmartPhone
+SM-A105M,Samsung,Galaxy A10,SmartPhone
+SM-A105M,Samsung,Galaxy A10,SmartPhone
+SM-A105M,Samsung,Galaxy A10,SmartPhone
+SM-A105M,Samsung,Galaxy A10,SmartPhone
+SM-A105M,Samsung,Galaxy A10,SmartPhone
+SM-A105M,Samsung,Galaxy A10,SmartPhone
+SM-A107F,Samsung,Galaxy A10S,SmartPhone
+SM-A107F,Samsung,Galaxy A10S,SmartPhone
+SM-A107F,Samsung,Galaxy A10S,SmartPhone
+SM-A107F,Samsung,Galaxy A10S,SmartPhone
+SM-A107F,Samsung,Galaxy A10S,SmartPhone
+SM-A107F,Samsung,Galaxy A10S,SmartPhone
+SM-A107F,Samsung,Galaxy A10S,SmartPhone
+SM-A107M,Samsung,Galaxy A10S,SmartPhone
+SM-A107M,Samsung,Galaxy A10S,SmartPhone
+SM-A107M,Samsung,Galaxy A10S,SmartPhone
+SM-A107M,Samsung,Galaxy A10S,SmartPhone
+SM-A107M,Samsung,Galaxy A10S,SmartPhone
+SM-A107M,Samsung,Galaxy A10S,SmartPhone
+SM-A107M,Samsung,Galaxy A10S,SmartPhone
+SM-A107M,Samsung,Galaxy A10S,SmartPhone
+SM-A107M,Samsung,Galaxy A10S,SmartPhone
+SM-A115F,Samsung,Galaxy A11,SmartPhone
+SM-A115F,Samsung,Galaxy A11,SmartPhone
+SM-A115F,Samsung,Galaxy A11,SmartPhone
+SM-A115F,Samsung,Galaxy A11,SmartPhone
+SM-A115F,Samsung,Galaxy A11,SmartPhone
+SM-A115M,Samsung,Galaxy A11,SmartPhone
+SM-A115M,Samsung,Galaxy A11,SmartPhone
+SM-A115M,Samsung,Galaxy A11,SmartPhone
+Star 3,Vsmart,Star 3,SmartPhone
+Star 3,Vsmart,Star 3,SmartPhone
+Star 3,Vsmart,Star 3,SmartPhone
+Star 3,Vsmart,Star 3,SmartPhone
+Star 3,Vsmart,Star 3,SmartPhone
+Star 3,Vsmart,Star 3,SmartPhone
+SM-A202F,Samsung,Galaxy A20e,SmartPhone
+SM-A202F,Samsung,Galaxy A20e,SmartPhone
+SM-A202F,Samsung,Galaxy A20e,SmartPhone
+SM-A205F,Samsung,Galaxy A20,SmartPhone
+SM-A205G,Samsung,Galaxy A20,SmartPhone
+SM-A207F,Samsung,Galaxy A20s,SmartPhone
+SM-A207F,Samsung,Galaxy A20s,SmartPhone
+SM-A207M,Samsung,Galaxy A20s,SmartPhone
+SM-A217F,Samsung,Galaxy A21s,SmartPhone
+SM-A217F,Samsung,Galaxy A21s,SmartPhone
+SM-A217F,Samsung,Galaxy A21s,SmartPhone
+SM-A217F,Samsung,Galaxy A21s,SmartPhone
+SM-A217F,Samsung,Galaxy A21s,SmartPhone
+SM-A217F,Samsung,Galaxy A21s,SmartPhone
+SM-A217F,Samsung,Galaxy A21s,SmartPhone
+SM-A217F,Samsung,Galaxy A21s,SmartPhone
+SM-A217F,Samsung,Galaxy A21s,SmartPhone
+SM-A217F,Samsung,Galaxy A21s,SmartPhone
+SM-A217F,Samsung,Galaxy A21s,SmartPhone
+SM-A217M,Samsung,Galaxy A21s,SmartPhone
+SM-A217M,Samsung,Galaxy A21s,SmartPhone
+SM-A305F,Samsung,Galaxy A30,SmartPhone
+SM-A305FN,Samsung,Galaxy A30,SmartPhone
+SM-A305GT,Samsung,Galaxy A30,SmartPhone
+SM-A307FN,Samsung,Galaxy A30s,SmartPhone
+SM-A307FN,Samsung,Galaxy A30s,SmartPhone
+SM-A307FN,Samsung,Galaxy A30s,SmartPhone
+SM-A307G,Samsung,Galaxy A30s,SmartPhone
+SM-A315F,Samsung,Galaxy A31,SmartPhone
+SM-A315F,Samsung,Galaxy A31,SmartPhone
+Star 3,Vsmart,Star 3,SmartPhone
+SM-A505FM,Samsung,Galaxy A50,SmartPhone
+SM-A505FM,Samsung,Galaxy A50,SmartPhone
+SM-A505FN,Samsung,Galaxy A50,SmartPhone
+SM-A505FN,Samsung,Galaxy A50,SmartPhone
+SM-A505GT,Samsung,Galaxy A50,SmartPhone
+SM-A515F,Samsung,Galaxy A51,SmartPhone
+SM-A515F,Samsung,Galaxy A51,SmartPhone
+SM-A515F,Samsung,Galaxy A51,SmartPhone
+SM-A515F,Samsung,Galaxy A51,SmartPhone
+SM-A515F,Samsung,Galaxy A51,SmartPhone
+SM-A600FN,Samsung,Galaxy A6,SmartPhone
+SM-A600FN,Samsung,Galaxy A6,SmartPhone
+SM-A600FN,Samsung,Galaxy A6,SmartPhone
+SM-A605FN,Samsung,Galaxy A6+,SmartPhone
+SM-A605G,Samsung,Galaxy A6+,SmartPhone
+SM-A605G,Samsung,Galaxy A6+,SmartPhone
+SM-A605G,Samsung,Galaxy A6+,SmartPhone
+SM-A605G,Samsung,Galaxy A6+,SmartPhone
+SM-A605GN,Samsung,Galaxy A6+,SmartPhone
+SM-A705FN,Samsung,Galaxy A70,SmartPhone
+SM-A705MN,Samsung,Galaxy A70,SmartPhone
+SM-A705MN,Samsung,Galaxy A70,SmartPhone
+SM-A715F,Samsung,Galaxy A71,SmartPhone
+SM-A715F,Samsung,Galaxy A71,SmartPhone
+SM-A750FN,Samsung,Galaxy A7 (2018),SmartPhone
+SM-A750FN,Samsung,Galaxy A7 (2018),SmartPhone
+SM-A750FN,Samsung,Galaxy A7 (2018),SmartPhone
+SM-A750FN,Samsung,Galaxy A7 (2018),SmartPhone
+SM-A750GN,Samsung,Galaxy A7 (2018),SmartPhone
+SM-A920F,Samsung,Galaxy A9,SmartPhone
+SM-A920F,Samsung,Galaxy A9,SmartPhone
+SM-A920F,Samsung,Galaxy A9,SmartPhone
+SM-A920F,Samsung,Galaxy A9,SmartPhone
+SM-G770F,Samsung,Galaxy S10 Lite,SmartPhone
+SM-G9600,Samsung,Galaxy S9,SmartPhone
+SM-G9600,Samsung,Galaxy S9,SmartPhone
+SM-G960F,Samsung,Galaxy S9,SmartPhone
+SM-G960F,Samsung,Galaxy S9,SmartPhone
+SM-G960F,Samsung,Galaxy S9,SmartPhone
+SM-G960F,Samsung,Galaxy S9,SmartPhone
+SM-G960U,Samsung,Galaxy S9,SmartPhone
+SM-G965F,Samsung,Galaxy S9+,SmartPhone
+SM-G965F,Samsung,Galaxy S9+,SmartPhone
+SM-G965F,Samsung,Galaxy S9+,SmartPhone
+SM-G965F,Samsung,Galaxy S9+,SmartPhone
+SM-G965F,Samsung,Galaxy S9+,SmartPhone
+SM-G965U,Samsung,Galaxy S9+,SmartPhone
+SM-G973F,Samsung,Galaxy S10,SmartPhone
+SM-G975F,Samsung,Galaxy S10+,SmartPhone
+SM-G975U,Samsung,Galaxy S10+,SmartPhone
+SM-G981B,Samsung,Galaxy S20 5G,SmartPhone
+SM-J400F,Samsung,Galaxy J4,SmartPhone
+SM-J400M,Samsung,Galaxy J4,SmartPhone
+SM-J600F,Samsung,Galaxy J6,SmartPhone
+SM-J600F,Samsung,Galaxy J6,SmartPhone
+SM-J600FN,Samsung,Galaxy J6 (2018) Dual SIM,SmartPhone
+SM-J600G,Samsung,Galaxy J6,SmartPhone
+SM-J600G,Samsung,Galaxy J6,SmartPhone
+SM-J610F,Samsung,Galaxy J6+,SmartPhone
+SM-J610F,Samsung,Galaxy J6+,SmartPhone
+SM-J610F,Samsung,Galaxy J6+,SmartPhone
+SM-J610F,Samsung,Galaxy J6+,SmartPhone
+Star 3,Vsmart,Star 3,SmartPhone
+SM-J610G,Samsung,Galaxy J6+,SmartPhone
+SM-J810M,Samsung,Galaxy J8,SmartPhone
+SM-J810M,Samsung,Galaxy J8,SmartPhone
+SM-M105M,Samsung,Galaxy M10,SmartPhone
+SM-M115F,Samsung,Galaxy M11,SmartPhone
+SM-M215F,Samsung,Galaxy M21,SmartPhone
+SM-N770F,Samsung,Galaxy Note 10 Lite,SmartPhone
+SM-N960F,Samsung,Galaxy Note9,SmartPhone
+SM-N960F,Samsung,Galaxy Note9,SmartPhone
+SM-N960F,Samsung,Galaxy Note9,SmartPhone
+SM-N960F,Samsung,Galaxy Note9,SmartPhone
+SM-N960U1,Samsung,Galaxy Note9,SmartPhone
+SM-N975F,Samsung,Galaxy Note10+,SmartPhone
+SM-N975U,Samsung,Galaxy Note10+,SmartPhone
+SM-T290,Samsung,Galaxy Tab A (8.0", 2019, Wi-Fi),Tablet
+SM-T295,Samsung,Galaxy Tab A (2019, 8.0, LTE),Tablet
+SM-T590,Samsung,Galaxy Tab A 10.5,Tablet
+SM-T595,Samsung,Galaxy Tab A (2018),Tablet
+SM-T875,Samsung,Galaxy Tab S7 (LTE),Tablet
+SNE-LX1,Huawei,Mate 20 lite,SmartPhone
+SO-02L,DoCoMo,Xperia Ace,SmartPhone
+SOV39,Sony,Xperia XZ3,SmartPhone
+STK-L21,Huawei,Y9 Prime 2019,SmartPhone
+STK-L21,Huawei,Y9 Prime 2019,SmartPhone
+STK-L21,Huawei,Y9 Prime 2019,SmartPhone
+STK-L21,Huawei,Y9 Prime 2019,SmartPhone
+STK-L22,Huawei,Y9 Prime 2019,SmartPhone
+STK-LX1,Huawei,P smart Z,SmartPhone
+STK-LX3,Huawei,Y9 Prime 2019,SmartPhone
+STK-LX3,Huawei,Y9 Prime 2019,SmartPhone
+STK-LX3,Huawei,Y9 Prime 2019,SmartPhone
+KD7,Tecno,Spark 5 Pro,SmartPhone
+KD7,Tecno,Spark 5 Pro,SmartPhone
+Generic Android,Unknown,Generic Android,SmartPhone
+KD7h,Tecno,Spark 5,SmartPhone
+KD7h,Tecno,Spark 5,SmartPhone
+Joy 3,Vsmart,Joy 3,SmartPhone
+Joy 3,Vsmart,Joy 3,SmartPhone
+V2027,Vivo,Y20i,SmartPhone
+V2027,Vivo,Y20i,SmartPhone
+V2027,Vivo,Y20i,SmartPhone
+V2027,Vivo,Y20i,SmartPhone
+V2029,Vivo,Y20,SmartPhone
+V2029,Vivo,Y20,SmartPhone
+Joy 3,Vsmart,Joy 3,SmartPhone
+VOG-L29,Huawei,P30 Pro,SmartPhone
+VOG-L29,Huawei,P30 Pro,SmartPhone
+YAL-L41,Huawei,Honor 20 Pro,SmartPhone
+Blade V10,ZTE,Blade V10,SmartPhone
+Blade V10,ZTE,Blade V10,SmartPhone
+Generic Android,Unknown,Generic Android,SmartPhone
+LM-Q710(FGN),LG,Stylo 4,SmartPhone
+Generic Android,Unknown,Generic Android,SmartPhone
+Generic Android,Unknown,Generic Android,SmartPhone
+LM-Q710(FGN),LG,Stylo 4,SmartPhone
+LM-Q710(FGN),LG,Stylo 4,SmartPhone
+LM-X210(G),LG,Aristo 2,SmartPhone
+LM-Q710(FGN),LG,Stylo 4,SmartPhone
+LM-Q710(FGN),LG,Stylo 4,SmartPhone
+Moto G Play (7th Gen.),Motorola,Moto G Play (7th Gen.),SmartPhone
+Moto G Play (7th Gen.),Motorola,Moto G Play (7th Gen.),SmartPhone
+Moto G Play (7th Gen.),Motorola,Moto G Play (7th Gen.),SmartPhone
+Moto G Play (7th Gen.),Motorola,Moto G Play (7th Gen.),SmartPhone
+Moto G Play (7th Gen.),Motorola,Moto G Play (7th Gen.),SmartPhone
+Moto G Play (7th Gen.),Motorola,Moto G Play (7th Gen.),SmartPhone
+Moto G Play (7th Gen.),Motorola,Moto G Play (7th Gen.),SmartPhone
+Moto G Play (7th Gen.),Motorola,Moto G Play (7th Gen.),SmartPhone
+Moto G Play (7th Gen.),Motorola,Moto G Play (7th Gen.),SmartPhone
+Moto G (7th Gen.) Power,Motorola,Moto G (7th Gen.) Power,SmartPhone
+Moto G (7th Gen.) Power,Motorola,Moto G (7th Gen.) Power,SmartPhone
+Moto G (7th Gen.) Power,Motorola,Moto G (7th Gen.) Power,SmartPhone
+Moto G (7th Gen.) Power,Motorola,Moto G (7th Gen.) Power,SmartPhone
+Moto G (7th Gen.) Power,Motorola,Moto G (7th Gen.) Power,SmartPhone
+Moto G (7th Gen.),Motorola,Moto G (7th Gen.),SmartPhone
+Moto G Plus (8th Gen.),Motorola,Moto G Plus (8th Gen.),SmartPhone
+Moto G Plus (8th Gen.),Motorola,Moto G Plus (8th Gen.),SmartPhone
+Moto G Plus (8th Gen.),Motorola,Moto G Plus (8th Gen.),SmartPhone
+Moto G (8th Gen.),Motorola,Moto G (8th Gen.),SmartPhone
+Moto G (8th Gen.),Motorola,Moto G (8th Gen.),SmartPhone
+Moto G (8th Gen.),Motorola,Moto G (8th Gen.),SmartPhone
+Moto G Play (9th Gen.),Motorola,Moto G Play (9th Gen.),SmartPhone
+Moto G Play (9th Gen.),Motorola,Moto G Play (9th Gen.),SmartPhone
+Moto G Play (9th Gen.),Motorola,Moto G Play (9th Gen.),SmartPhone
+Moto G Play (9th Gen.),Motorola,Moto G Play (9th Gen.),SmartPhone
+LM-X210(G),LG,Aristo 2,SmartPhone
+One action,Motorola,One action,SmartPhone
+One action,Motorola,One action,SmartPhone
+One Vision,Motorola,One Vision,SmartPhone
+one fusion+,Motorola,one fusion+,SmartPhone
+One Vision,Motorola,One Vision,SmartPhone
+one zoom,Motorola,one zoom,SmartPhone
+One Power,Motorola,One Power,SmartPhone
+One Power,Motorola,One Power,SmartPhone
+1804,Vivo,V11,SmartPhone
+1806,Vivo,V11,SmartPhone
+1806,Vivo,V11,SmartPhone
+1920,Vivo,S1 PRO,SmartPhone
+Generic Android,Unknown,Generic Android,SmartPhone
+1935,Vivo,Y50,SmartPhone
+1938,Vivo,Y30,SmartPhone
+1938,Vivo,Y30,SmartPhone
+1938,Vivo,Y30,SmartPhone
+1938,Vivo,Y30,SmartPhone
+1938,Vivo,Y30,SmartPhone
+1938,Vivo,Y30,SmartPhone
+2019,Vivo,Y30i,SmartPhone
+2019,Vivo,Y30i,SmartPhone
+Generic Android,Unknown,Generic Android,SmartPhone
+Generic Android,Unknown,Generic Android,SmartPhone
+Generic Android,Unknown,Generic Android,SmartPhone
+IN2023,Oneplus,8 Pro,SmartPhone
+Generic Android,Unknown,Generic Android,SmartPhone
+Pixel 3,Google,Pixel 3,SmartPhone
+Pixel 3,Google,Pixel 3,SmartPhone
+Pixel 3,Google,Pixel 3,SmartPhone
+Pixel 3,Google,Pixel 3,SmartPhone
+Generic Android,Unknown,Generic Android,SmartPhone
+Generic Android,Unknown,Generic Android,SmartPhone
+Generic Android,Unknown,Generic Android,SmartPhone
+Generic Android,Unknown,Generic Android,SmartPhone
+Generic Android,Unknown,Generic Android,SmartPhone
+Generic Android,Unknown,Generic Android,SmartPhone
+Generic Android,Unknown,Generic Android,SmartPhone
+Generic Android,Unknown,Generic Android,SmartPhone
+Generic Android,Unknown,Generic Android,SmartPhone
+Generic Android,Unknown,Generic Android,SmartPhone
+Pixel 3,Google,Pixel 3,SmartPhone
+Generic Android,Unknown,Generic Android,SmartPhone
+Generic Android,Unknown,Generic Android,SmartPhone
+Generic Android,Unknown,Generic Android,SmartPhone
+Generic Android,Unknown,Generic Android,SmartPhone
+Generic Android,Unknown,Generic Android,SmartPhone
+Generic Android,Unknown,Generic Android,SmartPhone
+Generic Android,Unknown,Generic Android,SmartPhone
+Generic Android,Unknown,Generic Android,SmartPhone
+Generic Android,Unknown,Generic Android,SmartPhone
+Generic Android,Unknown,Generic Android,SmartPhone
+Generic Android,Unknown,Generic Android,SmartPhone
+Generic Android,Unknown,Generic Android,SmartPhone
+Generic Android,Unknown,Generic Android,SmartPhone
+Generic Android,Unknown,Generic Android,SmartPhone
+Generic Android,Unknown,Generic Android,SmartPhone
+Generic Android,Unknown,Generic Android,SmartPhone
+Mi 10,Xiaomi,Mi 10,SmartPhone
+IN2023,Oneplus,8 Pro,SmartPhone
+Generic Android,Unknown,Generic Android,SmartPhone
+Generic Android,Unknown,Generic Android,SmartPhone
+Generic Android,Unknown,Generic Android,SmartPhone
+Generic Android,Unknown,Generic Android,SmartPhone
+Generic Android,Unknown,Generic Android,SmartPhone
+Generic Android,Unknown,Generic Android,SmartPhone
+Generic Android,Unknown,Generic Android,SmartPhone
+Generic Android,Unknown,Generic Android,SmartPhone
+Generic Android,Unknown,Generic Android,SmartPhone
+Generic Android,Unknown,Generic Android,SmartPhone
+Generic Android,Unknown,Generic Android,SmartPhone
+Generic Android,Unknown,Generic Android,SmartPhone
+Generic Android,Unknown,Generic Android,SmartPhone
+Generic Android,Unknown,Generic Android,SmartPhone
+Generic Android,Unknown,Generic Android,SmartPhone
+Generic Android,Unknown,Generic Android,SmartPhone
+Generic Android,Unknown,Generic Android,SmartPhone
+Generic Android,Unknown,Generic Android,SmartPhone
+Generic Android,Unknown,Generic Android,SmartPhone
+Generic Android,Unknown,Generic Android,SmartPhone
+Generic Android,Unknown,Generic Android,SmartPhone
+Generic Android,Unknown,Generic Android,SmartPhone
+Generic Android,Unknown,Generic Android,SmartPhone
+Generic Android,Unknown,Generic Android,SmartPhone
+Pixel 2,Google,Pixel 2,SmartPhone
+Pixel 2,Google,Pixel 2,SmartPhone
+Generic Android,Unknown,Generic Android,SmartPhone
+Generic Android,Unknown,Generic Android,SmartPhone
+Generic Android,Unknown,Generic Android,SmartPhone
+Generic Android,Unknown,Generic Android,SmartPhone
+Generic Android,Unknown,Generic Android,SmartPhone
+Generic Android,Unknown,Generic Android,SmartPhone
+Generic Android,Unknown,Generic Android,SmartPhone
+Generic Android,Unknown,Generic Android,SmartPhone
+Generic Android,Unknown,Generic Android,SmartPhone
+Generic Android,Unknown,Generic Android,SmartPhone
+Generic Android,Unknown,Generic Android,SmartPhone
+Generic Android,Unknown,Generic Android,SmartPhone
+Generic Android,Unknown,Generic Android,SmartPhone
+Generic Android,Unknown,Generic Android,SmartPhone
+Generic Android,Unknown,Generic Android,SmartPhone
+Generic Android,Unknown,Generic Android,SmartPhone
+Generic Android,Unknown,Generic Android,SmartPhone
+Generic Android,Unknown,Generic Android,SmartPhone
+Generic Android,Unknown,Generic Android,SmartPhone
+Generic Android,Unknown,Generic Android,SmartPhone
+Generic Android,Unknown,Generic Android,SmartPhone
+Generic Android,Unknown,Generic Android,SmartPhone
+Generic Android,Unknown,Generic Android,SmartPhone
+Generic Android,Unknown,Generic Android,SmartPhone
+Generic Android,Unknown,Generic Android,SmartPhone
+Generic Android,Unknown,Generic Android,SmartPhone
+Generic Android,Unknown,Generic Android,SmartPhone
+Generic Android,Unknown,Generic Android,SmartPhone
+Generic Android,Unknown,Generic Android,SmartPhone
+Generic Android,Unknown,Generic Android,SmartPhone
+Generic Android,Unknown,Generic Android,SmartPhone
+Generic Android,Unknown,Generic Android,SmartPhone
+Generic Android,Unknown,Generic Android,SmartPhone
+Generic Android,Unknown,Generic Android,SmartPhone
+Generic Android,Unknown,Generic Android,SmartPhone
+Generic Android,Unknown,Generic Android,SmartPhone
+Generic Android,Unknown,Generic Android,SmartPhone
+Generic Android,Unknown,Generic Android,SmartPhone
+Generic Android,Unknown,Generic Android,SmartPhone
+Generic Android,Unknown,Generic Android,SmartPhone
+Generic Android,Unknown,Generic Android,SmartPhone
+Generic Android,Unknown,Generic Android,SmartPhone
+Generic Android,Unknown,Generic Android,SmartPhone
+Generic Android,Unknown,Generic Android,SmartPhone
+Generic Android,Unknown,Generic Android,SmartPhone
+Generic Android,Unknown,Generic Android,SmartPhone
+Generic Android,Unknown,Generic Android,SmartPhone
+Generic Android,Unknown,Generic Android,SmartPhone
+Generic Android,Unknown,Generic Android,SmartPhone
+Generic Android,Unknown,Generic Android,SmartPhone
+Generic Android,Unknown,Generic Android,SmartPhone
+Generic Android,Unknown,Generic Android,SmartPhone
+Generic Android,Unknown,Generic Android,SmartPhone
+Generic Android,Unknown,Generic Android,SmartPhone
+Generic Android,Unknown,Generic Android,SmartPhone
+Generic Android,Unknown,Generic Android,SmartPhone
+Generic Android,Unknown,Generic Android,SmartPhone
+Generic Android,Unknown,Generic Android,SmartPhone
+Generic Android,Unknown,Generic Android,SmartPhone
+Generic Android,Unknown,Generic Android,SmartPhone
+Generic Android,Unknown,Generic Android,SmartPhone
+Generic Android,Unknown,Generic Android,SmartPhone
+Generic Android,Unknown,Generic Android,SmartPhone
+Generic Android,Unknown,Generic Android,SmartPhone
+Generic Android,Unknown,Generic Android,SmartPhone
+Generic Android,Unknown,Generic Android,SmartPhone
+Generic Android,Unknown,Generic Android,SmartPhone
+Generic Android,Unknown,Generic Android,SmartPhone
+Generic Android,Unknown,Generic Android,SmartPhone
+Generic Android,Unknown,Generic Android,SmartPhone
+Generic Android,Unknown,Generic Android,SmartPhone
+Generic Android,Unknown,Generic Android,SmartPhone
+Generic Android,Unknown,Generic Android,SmartPhone
+IN2023,Oneplus,8 Pro,SmartPhone
+Generic Android,Unknown,Generic Android,SmartPhone
+Generic Android,Unknown,Generic Android,SmartPhone
+Generic Android,Unknown,Generic Android,SmartPhone
+Generic Android,Unknown,Generic Android,SmartPhone
+Generic Android,Unknown,Generic Android,SmartPhone
+Generic Android,Unknown,Generic Android,SmartPhone
+Generic Android,Unknown,Generic Android,SmartPhone
+Generic Android,Unknown,Generic Android,SmartPhone
+Generic Android,Unknown,Generic Android,SmartPhone
+Generic Android,Unknown,Generic Android,SmartPhone
+Generic Android,Unknown,Generic Android,SmartPhone
+Generic Android,Unknown,Generic Android,SmartPhone
+Generic Android,Unknown,Generic Android,SmartPhone
+Generic Android,Unknown,Generic Android,SmartPhone
+Generic Android,Unknown,Generic Android,SmartPhone
+Generic Android,Unknown,Generic Android,SmartPhone
+Generic Android,Unknown,Generic Android,SmartPhone
+Generic Android,Unknown,Generic Android,SmartPhone
+Generic Android,Unknown,Generic Android,SmartPhone
+Generic Android,Unknown,Generic Android,SmartPhone
+Generic Android,Unknown,Generic Android,SmartPhone
+Generic Android,Unknown,Generic Android,SmartPhone
+Generic Android,Unknown,Generic Android,SmartPhone
+Generic Android,Unknown,Generic Android,SmartPhone
+Generic Android,Unknown,Generic Android,SmartPhone
+Generic Android,Unknown,Generic Android,SmartPhone
+Generic Android,Unknown,Generic Android,SmartPhone
+Generic Android,Unknown,Generic Android,SmartPhone
+Generic Android,Unknown,Generic Android,SmartPhone
+Generic Android,Unknown,Generic Android,SmartPhone
+Generic Android,Unknown,Generic Android,SmartPhone
+Generic Android,Unknown,Generic Android,SmartPhone
+Generic Android,Unknown,Generic Android,SmartPhone
+Generic Android,Unknown,Generic Android,SmartPhone
+Generic Android,Unknown,Generic Android,SmartPhone
+Generic Android,Unknown,Generic Android,SmartPhone
+Generic Android,Unknown,Generic Android,SmartPhone
+Generic Android,Unknown,Generic Android,SmartPhone
+Generic Android,Unknown,Generic Android,SmartPhone
+Generic Android,Unknown,Generic Android,SmartPhone
+Generic Android,Unknown,Generic Android,SmartPhone
+Generic Android,Unknown,Generic Android,SmartPhone
+Generic Android,Unknown,Generic Android,SmartPhone
+Generic Android,Unknown,Generic Android,SmartPhone
+Generic Android,Unknown,Generic Android,SmartPhone
+Generic Android,Unknown,Generic Android,SmartPhone
+Generic Android,Unknown,Generic Android,SmartPhone
+Generic Android,Unknown,Generic Android,SmartPhone
+Generic Android,Unknown,Generic Android,SmartPhone
+Generic Android,Unknown,Generic Android,SmartPhone
+Generic Android,Unknown,Generic Android,SmartPhone
+Generic Android,Unknown,Generic Android,SmartPhone
+Generic Android,Unknown,Generic Android,SmartPhone
+Generic Android,Unknown,Generic Android,SmartPhone
+Generic Android,Unknown,Generic Android,SmartPhone
+Generic Android,Unknown,Generic Android,SmartPhone
+Generic Android,Unknown,Generic Android,SmartPhone
+Generic Android,Unknown,Generic Android,SmartPhone
+Generic Android,Unknown,Generic Android,SmartPhone
+Generic Android,Unknown,Generic Android,SmartPhone
+Generic Android,Unknown,Generic Android,SmartPhone
+Generic Android,Unknown,Generic Android,SmartPhone
+Generic Android,Unknown,Generic Android,SmartPhone
+Generic Android,Unknown,Generic Android,SmartPhone
+Generic Android,Unknown,Generic Android,SmartPhone
+Generic Android,Unknown,Generic Android,SmartPhone
+Generic Android,Unknown,Generic Android,SmartPhone
+Generic Android,Unknown,Generic Android,SmartPhone
+Generic Android,Unknown,Generic Android,SmartPhone
+Generic Android,Unknown,Generic Android,SmartPhone
+Generic Android,Unknown,Generic Android,SmartPhone
+Generic Android,Unknown,Generic Android,SmartPhone
+Generic Android,Unknown,Generic Android,SmartPhone
+Generic Android,Unknown,Generic Android,SmartPhone
+Generic Android,Unknown,Generic Android,SmartPhone
+Generic Android,Unknown,Generic Android,SmartPhone
+Generic Android,Unknown,Generic Android,SmartPhone
+Generic Android,Unknown,Generic Android,SmartPhone
+Generic Android,Unknown,Generic Android,SmartPhone
+Generic Android,Unknown,Generic Android,SmartPhone
+Generic Android,Unknown,Generic Android,SmartPhone
+Generic Android,Unknown,Generic Android,SmartPhone
+Generic Android,Unknown,Generic Android,SmartPhone
+Generic Android,Unknown,Generic Android,SmartPhone
+Generic Android,Unknown,Generic Android,SmartPhone
+Generic Android,Unknown,Generic Android,SmartPhone
+Generic Android,Unknown,Generic Android,SmartPhone
+Generic Android,Unknown,Generic Android,SmartPhone
+Generic Android,Unknown,Generic Android,SmartPhone
+Generic Android,Unknown,Generic Android,SmartPhone
+Generic Android,Unknown,Generic Android,SmartPhone
+Generic Android,Unknown,Generic Android,SmartPhone
+Generic Android,Unknown,Generic Android,SmartPhone
+Generic Android,Unknown,Generic Android,SmartPhone
+Generic Android,Unknown,Generic Android,SmartPhone
+Generic Android,Unknown,Generic Android,SmartPhone
+Generic Android,Unknown,Generic Android,SmartPhone
+Generic Android,Unknown,Generic Android,SmartPhone
+Generic Android,Unknown,Generic Android,SmartPhone
+Generic Android,Unknown,Generic Android,SmartPhone
+Generic Android,Unknown,Generic Android,SmartPhone
+Generic Android,Unknown,Generic Android,SmartPhone
+Generic Android,Unknown,Generic Android,SmartPhone
+Generic Android,Unknown,Generic Android,SmartPhone
+Generic Android,Unknown,Generic Android,SmartPhone
+Generic Android,Unknown,Generic Android,SmartPhone
+Generic Android,Unknown,Generic Android,SmartPhone
+Generic Android,Unknown,Generic Android,SmartPhone
+Generic Android,Unknown,Generic Android,SmartPhone
+Generic Android,Unknown,Generic Android,SmartPhone
+Generic Android,Unknown,Generic Android,SmartPhone
+Generic Android,Unknown,Generic Android,SmartPhone
+Generic Android,Unknown,Generic Android,SmartPhone
+Generic Android,Unknown,Generic Android,SmartPhone
+Generic Android,Unknown,Generic Android,SmartPhone
+Generic Android,Unknown,Generic Android,SmartPhone
+Generic Android,Unknown,Generic Android,SmartPhone
+Generic Android,Unknown,Generic Android,SmartPhone
+Generic Android,Unknown,Generic Android,SmartPhone
+Generic Android,Unknown,Generic Android,SmartPhone
+Generic Android,Unknown,Generic Android,SmartPhone
+Generic Android,Unknown,Generic Android,SmartPhone
+Generic Android,Unknown,Generic Android,SmartPhone
+Generic Android,Unknown,Generic Android,SmartPhone
+Generic Android,Unknown,Generic Android,SmartPhone
+Generic Android,Unknown,Generic Android,SmartPhone
+Generic Android,Unknown,Generic Android,SmartPhone
+Generic Android,Unknown,Generic Android,SmartPhone
+Generic Android,Unknown,Generic Android,SmartPhone
+Generic Android,Unknown,Generic Android,SmartPhone
+Generic Android,Unknown,Generic Android,SmartPhone
+Generic Android,Unknown,Generic Android,SmartPhone
+Generic Android,Unknown,Generic Android,SmartPhone
+Generic Android,Unknown,Generic Android,SmartPhone
+Generic Android,Unknown,Generic Android,SmartPhone
+Generic Android,Unknown,Generic Android,SmartPhone
+Generic Android,Unknown,Generic Android,SmartPhone
+Generic Android,Unknown,Generic Android,SmartPhone
+Generic Android,Unknown,Generic Android,SmartPhone
+Generic Android,Unknown,Generic Android,SmartPhone
+Generic Android,Unknown,Generic Android,SmartPhone
+Generic Android,Unknown,Generic Android,SmartPhone
+Generic Android,Unknown,Generic Android,SmartPhone
+Generic Android,Unknown,Generic Android,SmartPhone
+Generic Android,Unknown,Generic Android,SmartPhone
+Generic Android,Unknown,Generic Android,SmartPhone
+Generic Android,Unknown,Generic Android,SmartPhone
+Generic Android,Unknown,Generic Android,SmartPhone
+Generic Android,Unknown,Generic Android,SmartPhone
+Generic Android,Unknown,Generic Android,SmartPhone
+Generic Android,Unknown,Generic Android,SmartPhone
+Generic Android,Unknown,Generic Android,SmartPhone
+Generic Android,Unknown,Generic Android,SmartPhone
+Generic Android,Unknown,Generic Android,SmartPhone
+Generic Android,Unknown,Generic Android,SmartPhone
+Generic Android,Unknown,Generic Android,SmartPhone
+Generic Android,Unknown,Generic Android,SmartPhone
+Generic Android,Unknown,Generic Android,SmartPhone
+Generic Android,Unknown,Generic Android,SmartPhone
+Generic Android,Unknown,Generic Android,SmartPhone
+Generic Android,Unknown,Generic Android,SmartPhone
+Generic Android,Unknown,Generic Android,SmartPhone
+Generic Android,Unknown,Generic Android,SmartPhone
+Generic Android,Unknown,Generic Android,SmartPhone
+Generic Android,Unknown,Generic Android,SmartPhone
+Pixel 3a,Google,Pixel 3a,SmartPhone
+Generic Android,Unknown,Generic Android,SmartPhone
+Generic Android,Unknown,Generic Android,SmartPhone
+Generic Android,Unknown,Generic Android,SmartPhone
+Generic Android,Unknown,Generic Android,SmartPhone
+Generic Android,Unknown,Generic Android,SmartPhone
+Generic Android,Unknown,Generic Android,SmartPhone
+Generic Android,Unknown,Generic Android,SmartPhone
+Generic Android,Unknown,Generic Android,SmartPhone
+Generic Android,Unknown,Generic Android,SmartPhone
+Generic Android,Unknown,Generic Android,SmartPhone
+Generic Android,Unknown,Generic Android,SmartPhone
+Generic Android,Unknown,Generic Android,SmartPhone
+Generic Android,Unknown,Generic Android,SmartPhone
+Generic Android,Unknown,Generic Android,SmartPhone
+Generic Android,Unknown,Generic Android,SmartPhone
+Generic Android,Unknown,Generic Android,SmartPhone
+IN2023,Oneplus,8 Pro,SmartPhone
+IN2023,Oneplus,8 Pro,SmartPhone
+IN2023,Oneplus,8 Pro,SmartPhone
+IN2023,Oneplus,8 Pro,SmartPhone
+Generic Android,Unknown,Generic Android,SmartPhone
+Generic Android,Unknown,Generic Android,SmartPhone
+Generic Android,Unknown,Generic Android,SmartPhone
+Generic Android,Unknown,Generic Android,SmartPhone
+Generic Android,Unknown,Generic Android,SmartPhone
+Generic Android,Unknown,Generic Android,SmartPhone
+Generic Android,Unknown,Generic Android,SmartPhone
+Generic Android,Unknown,Generic Android,SmartPhone
+Generic Android,Unknown,Generic Android,SmartPhone
+Generic Android,Unknown,Generic Android,SmartPhone
+Generic Android,Unknown,Generic Android,SmartPhone
+Generic Android,Unknown,Generic Android,SmartPhone
+Generic Android,Unknown,Generic Android,SmartPhone
+Generic Android,Unknown,Generic Android,SmartPhone
+Generic Android,Unknown,Generic Android,SmartPhone
+Generic Android,Unknown,Generic Android,SmartPhone
+Generic Android,Unknown,Generic Android,SmartPhone
+Generic Android,Unknown,Generic Android,SmartPhone
+Generic Android,Unknown,Generic Android,SmartPhone
+Generic Android,Unknown,Generic Android,SmartPhone
+Generic Android,Unknown,Generic Android,SmartPhone
+Generic Android,Unknown,Generic Android,SmartPhone
+Generic Android,Unknown,Generic Android,SmartPhone
+Generic Android,Unknown,Generic Android,SmartPhone
+Generic Android,Unknown,Generic Android,SmartPhone
+Generic Android,Unknown,Generic Android,SmartPhone
+Generic Android,Unknown,Generic Android,SmartPhone
+Generic Android,Unknown,Generic Android,SmartPhone
+Generic Android,Unknown,Generic Android,SmartPhone
+Generic Android,Unknown,Generic Android,SmartPhone
+Generic Android,Unknown,Generic Android,SmartPhone
+Generic Android,Unknown,Generic Android,SmartPhone
+Generic Android,Unknown,Generic Android,SmartPhone
+Generic Android,Unknown,Generic Android,SmartPhone
+Generic Android,Unknown,Generic Android,SmartPhone
+Generic Android,Unknown,Generic Android,SmartPhone
+Generic Android,Unknown,Generic Android,SmartPhone
+Generic Android,Unknown,Generic Android,SmartPhone
+Generic Android,Unknown,Generic Android,SmartPhone
+Generic Android,Unknown,Generic Android,SmartPhone
+Generic Android,Unknown,Generic Android,SmartPhone
+Generic Android,Unknown,Generic Android,SmartPhone
+Generic Android,Unknown,Generic Android,SmartPhone
+Generic Android,Unknown,Generic Android,SmartPhone
+Generic Android,Unknown,Generic Android,SmartPhone
+Generic Android,Unknown,Generic Android,SmartPhone
+Generic Android,Unknown,Generic Android,SmartPhone
+Generic Android,Unknown,Generic Android,SmartPhone
+Generic Android,Unknown,Generic Android,SmartPhone
+Generic Android,Unknown,Generic Android,SmartPhone
+Generic Android,Unknown,Generic Android,SmartPhone
+Generic Android,Unknown,Generic Android,SmartPhone
+Generic Android,Unknown,Generic Android,SmartPhone
+GT-P5210,Samsung,Galaxy Tab 3 10.1,Tablet
+A3300-GV,Lenovo,TAB A7-30,Tablet
+GT-P5200,Samsung,Galaxy Tab 3 10.1,Tablet
+SM-G313F,Samsung,Samsung Galaxy Ace 4 LTE,SmartPhone
+SM-T310,Samsung,Galaxy Tab 3 8.0,Tablet
+SM-G530BT,Samsung,Galaxy Grand Prime,SmartPhone
+SM-T116,Samsung,Galaxy Tab3 Lite,Tablet
+ONE ,HTC,One,SmartPhone
+SM-T531,Samsung,Galaxy Tab 4 10.1,Tablet
+SM-N9005,Samsung,Galaxy Note 3,SmartPhone
+A37f,OPPO,A37f,SmartPhone
+A37f,OPPO,A37f,SmartPhone
+A37f,OPPO,A37f,SmartPhone
+A37f,OPPO,A37f,SmartPhone
+A37f,OPPO,A37f,SmartPhone
+A37fw,OPPO,A37fw,SmartPhone
+A37fw,OPPO,A37fw,SmartPhone
+A37fw,OPPO,A37fw,SmartPhone
+Redmi 3 ,Xiaomi,Redmi 3 ,SmartPhone
+MI 1S,Xiaomi,MI 1S,SmartPhone
+Redmi Note 3,Xiaomi,Redmi Note 3,SmartPhone
+SM-T285,Samsung,Galaxy Tab A (7.0, LTE),Tablet
+SM-E500M,Samsung,Galaxy E5,SmartPhone
+SM-G531H,Samsung,Galaxy Grand Prime,SmartPhone
+SM-J120F,Samsung,Galaxy J1 (2016),SmartPhone
+SM-J120F,Samsung,Galaxy J1 (2016),SmartPhone
+SM-J120H,Samsung,Galaxy J1 (2016),SmartPhone
+SM-J200BT,Samsung,Galaxy J2 DTV,SmartPhone
+SM-J200BT,Samsung,Galaxy J2 DTV,SmartPhone
+SM-J200G,Samsung,Galaxy J2,SmartPhone
+SM-J200G,Samsung,Galaxy J2,SmartPhone
+SM-J3110,Samsung,Galaxy J3 Pro Duos,SmartPhone
+SM-J320F,Samsung,Galaxy J3 (2016),SmartPhone
+SM-J320FN,Samsung,Galaxy J3,SmartPhone
+SM-J320H,Samsung,Galaxy J3 (2016),SmartPhone
+SM-J500G,Samsung,Galaxy J5 Duos,SmartPhone
+SM-T285,Samsung,Galaxy Tab A (7.0, LTE),Tablet
+SM-T670,Samsung,Galaxy View,Tablet
+V3Max,Vivo,V3Max,SmartPhone
+A1601,OPPO,F1s,SmartPhone
+A1601,OPPO,F1s,SmartPhone
+A1601,OPPO,F1s,SmartPhone
+A1601,OPPO,F1s,SmartPhone
+A1601,OPPO,F1s,SmartPhone
+A1601,OPPO,F1s,SmartPhone
+TIT-AL00,Huawei,Enjoy 5,SmartPhone
+X9009,OPPO,F1 Plus,SmartPhone
+X9009,OPPO,F1 Plus,SmartPhone
+CPH1607,OPPO,R9S,SmartPhone
+CPH1701,OPPO,A57,SmartPhone
+CPH1701,OPPO,A57,SmartPhone
+CPH1701,OPPO,A57,SmartPhone
+D6503,Sony,Xperia Z2 ,SmartPhone
+K220,LG,X power,SmartPhone
+P008,Asus,Zenpad,Tablet
+Redmi Note 4X,Xiaomi,Redmi Note 4X,SmartPhone
+Redmi 4,Xiaomi,Redmi 4,SmartPhone
+Redmi 4,Xiaomi,Redmi 4,SmartPhone
+Redmi 4A,Xiaomi,Redmi 4A,SmartPhone
+SM-G532MT,Samsung,Galaxy J2 Prime TV,SmartPhone
+SM-G532MT,Samsung,Galaxy J2 Prime TV,SmartPhone
+SM-G5510,Samsung,SM-G5510,SmartPhone
+SM-G610Y,Samsung,Galaxy J7 Prime,SmartPhone
+SM-J500FN,Samsung,Galaxy J5 Duos,SmartPhone
+SM-A320FL,Samsung,Galaxy A3,SmartPhone
+SM-A500F,Samsung,Galaxy A5,SmartPhone
+SM-A800I,Samsung,Galaxy A8,SmartPhone
+SM-G532F,Samsung,Galaxy Grand Prime 4G,SmartPhone
+SM-G532G,Samsung,Galaxy J2 Prime LTE,SmartPhone
+SM-G532G,Samsung,Galaxy J2 Prime LTE,SmartPhone
+SM-G532G,Samsung,Galaxy J2 Prime LTE,SmartPhone
+SM-G532G,Samsung,Galaxy J2 Prime LTE,SmartPhone
+SM-G532G,Samsung,Galaxy J2 Prime LTE,SmartPhone
+SM-G532M,Samsung,Galaxy J2 Prime,SmartPhone
+SM-G532M,Samsung,Galaxy J2 Prime,SmartPhone
+SM-G532MT,Samsung,Galaxy J2 Prime TV,SmartPhone
+SM-G532MT,Samsung,Galaxy J2 Prime TV,SmartPhone
+SM-G532MT,Samsung,Galaxy J2 Prime TV,SmartPhone
+SM-G532MT,Samsung,Galaxy J2 Prime TV,SmartPhone
+SM-G920F,Samsung,Galaxy S6,SmartPhone
+SM-J106H,Samsung,Galaxy J1 Mini Prime,SmartPhone
+SM-J500H,Samsung,Galaxy J5 Duos,SmartPhone
+SM-J500M,Samsung,Galaxy J5,SmartPhone
+SM-J500M,Samsung,Galaxy J5,SmartPhone
+SM-J700F,Samsung,Galaxy J7,SmartPhone
+SM-J700M,Samsung,Galaxy J7,SmartPhone
+SM-N910C,Samsung,Galaxy Note 4,SmartPhone
+1610,Vivo,V5,SmartPhone
+BG2-W09,Huawei,MediaPad T3 7,Tablet
+BLL-L23,Huawei,GR5 2017,SmartPhone
+CAM-L21,Huawei,Y6 II,SmartPhone
+CAM-L21,Huawei,Y6 II,SmartPhone
+CAM-L21,Huawei,Y6 II,SmartPhone
+CPH1609,OPPO,F3,SmartPhone
+MYA-U29,Huawei,Y5 2017,SmartPhone
+Viking L508,Orange,Viking L508,SmartPhone
+PGN610,CONDOR,Plume P8 Lite,SmartPhone
+T702,E-RAN,7" Tablet PC,Tablet
+XT1069,Motorola,Moto G (2nd Gen.),SmartPhone
+XT1069,Motorola,Moto G (2nd Gen.),SmartPhone
+1601,Vivo,V5,SmartPhone
+AGS-L09,Huawei,MediaPad T3 10,Tablet
+AGS-W09,Huawei,MediaPad T3 10,Tablet
+AGS-W09,Huawei,MediaPad T3 10,Tablet
+AGS-W09,Huawei,MediaPad T3 10,Tablet
+Blade L7A,ZTE,Blade L7A,SmartPhone
+BLL-L22,Huawei,GR5 2017,SmartPhone
+BLL-L22,Huawei,GR5 2017,SmartPhone
+BLL-L22,Huawei,GR5 2017,SmartPhone
+EVA-L09,Huawei,P9,SmartPhone
+VNS-L31,Huawei,P9 lite,SmartPhone
+Impress Luck,Vertex,Impress Luck,SmartPhone
+K10000 Pro,OUKITEL,K10000 Pro,SmartPhone
+H850,LG,G5 Titan,SmartPhone
+M250,LG,K10,SmartPhone
+M250,LG,K10,SmartPhone
+M250,LG,K10,SmartPhone
+TP450,LG,Stylo 3 Plus,SmartPhone
+MP260,LG,K20 Plus,SmartPhone
+MS50L,Multilaser,MS50L,SmartPhone
+P00I,Asus,ZenPad Z10,Tablet
+PRA-LX1,Huawei,P8 LITE 2017,SmartPhone
+PRA-TL10,Huawei,Honor 8 lite,SmartPhone
+Redmi Note 4,Xiaomi,Redmi Note 4,SmartPhone
+Redmi Note 4,Xiaomi,Redmi Note 4,SmartPhone
+Redmi Note 4,Xiaomi,Redmi Note 4,SmartPhone
+Redmi Note 3 Pro,Xiaomi,Redmi Note 3 Pro,SmartPhone
+Redmi Note 3 Pro,Xiaomi,Redmi Note 3 Pro,SmartPhone
+Redmi Note 3 Pro,Xiaomi,Redmi Note 3 Pro,SmartPhone
+Redmi Note 3 Pro,Xiaomi,Redmi Note 3 Pro,SmartPhone
+Redmi Note 3 Pro,Xiaomi,Redmi Note 3 Pro,SmartPhone
+Redmi Note 3 Pro,Xiaomi,Redmi Note 3 Pro,SmartPhone
+SM-A510F,Samsung,Galaxy A5,SmartPhone
+SM-A510F,Samsung,Galaxy A5,SmartPhone
+SM-A510F,Samsung,Galaxy A5,SmartPhone
+SM-A510M,Samsung,Galaxy A5,SmartPhone
+SM-G610F,Samsung,Galaxy J7 Prime,SmartPhone
+SM-G930A,Samsung,Galaxy S7,SmartPhone
+SM-G930A,Samsung,Galaxy S7,SmartPhone
+SM-G930A,Samsung,Galaxy S7,SmartPhone
+SM-G930A,Samsung,Galaxy S7,SmartPhone
+SM-G930A,Samsung,Galaxy S7,SmartPhone
+SM-A310F,Samsung,Galaxy A3 (2016),SmartPhone
+SM-A510K,Samsung,Galaxy A5,SmartPhone
+SM-A510K,Samsung,Galaxy A5,SmartPhone
+SM-A510K,Samsung,Galaxy A5,SmartPhone
+SM-A710M,Samsung,Galaxy A7 (2016),SmartPhone
+SM-A710M,Samsung,Galaxy A7 (2016),SmartPhone
+SM-G610F,Samsung,Galaxy J7 Prime,SmartPhone
+SM-G920F,Samsung,Galaxy S6,SmartPhone
+SM-J730GM,Samsung,Galaxy J7 Pro,SmartPhone
+SM-J730GM,Samsung,Galaxy J7 Pro,SmartPhone
+SM-N920C,Samsung,Galaxy Note 5 Duos,SmartPhone
+SM-T813,Samsung,Galaxy Tab S2,Tablet
+SO-02H,DoCoMo,Xperia Z5 Compact SO-02H,SmartPhone
+SO-02J,DoCoMo,Xperia X Compact SO-02J,SmartPhone
+TRT-LX1,Huawei,Y7,SmartPhone
+VIE-L09,Huawei,P9 Plus,SmartPhone
+1713,Vivo,V5S,SmartPhone
+1713,Vivo,V5S,SmartPhone
+1713,Vivo,V5S,SmartPhone
+X00ID,Asus,ZenFone 4 Max Pro,SmartPhone
+CPH1723,OPPO,F5,SmartPhone
+CPH1729,OPPO,A83,SmartPhone
+CPH1729,OPPO,A83,SmartPhone
+CPH1729,OPPO,A83,SmartPhone
+CPH1729,OPPO,A83,SmartPhone
+F-02H,DoCoMo,arrows NX F-02H,SmartPhone
+MI MAX 2,Xiaomi,MI MAX 2,SmartPhone
+Moto E (4th Gen.),Motorola,Moto E (4th Gen.),SmartPhone
+Moto E (4th Gen.),Motorola,Moto E (4th Gen.),SmartPhone
+Redmi Note 5 Pro,Xiaomi,Redmi Note 5 Pro,SmartPhone
+SM-G611F,Samsung,Galaxy On7 Prime,SmartPhone
+SM-J250F,Samsung,Galaxy J2 Pro,SmartPhone
+SM-J250F,Samsung,Galaxy J2 Pro,SmartPhone
+SM-J510FN,Samsung,Galaxy J5 (2016),SmartPhone
+SM-J510FN,Samsung,Galaxy J5 (2016),SmartPhone
+SM-J510FN,Samsung,Galaxy J5 (2016),SmartPhone
+SM-J510FN,Samsung,Galaxy J5 (2016),SmartPhone
+SM-G611MT,Samsung,Galaxy J7 Prime2 TV,SmartPhone
+SM-J250F,Samsung,Galaxy J2 Pro,SmartPhone
+SM-J250F,Samsung,Galaxy J2 Pro,SmartPhone
+SM-J250F,Samsung,Galaxy J2 Pro,SmartPhone
+SM-J250F,Samsung,Galaxy J2 Pro,SmartPhone
+SM-J250F,Samsung,Galaxy J2 Pro,SmartPhone
+SM-J250F,Samsung,Galaxy J2 Pro,SmartPhone
+SM-J250F,Samsung,Galaxy J2 Pro,SmartPhone
+SM-J250F,Samsung,Galaxy J2 Pro,SmartPhone
+SM-J250F,Samsung,Galaxy J2 Pro,SmartPhone
+SM-J250M,Samsung,Galaxy J2 Pro,SmartPhone
+SM-J250M,Samsung,Galaxy J2 Pro,SmartPhone
+SM-J510FN,Samsung,Galaxy J5 (2016),SmartPhone
+SM-J510FN,Samsung,Galaxy J5 (2016),SmartPhone
+SM-J510FN,Samsung,Galaxy J5 (2016),SmartPhone
+SM-J510FN,Samsung,Galaxy J5 (2016),SmartPhone
+SM-J510FN,Samsung,Galaxy J5 (2016),SmartPhone
+SM-J510H,Samsung,GALAXY J5 2,SmartPhone
+SM-P555,Samsung,Galaxy Tab A,Tablet
+SM-T350,Samsung,Galaxy Tab A,Tablet
+T385,LG,Cookie Smart,SmartPhone
+SM-T550,Samsung,Galaxy Tab A,Tablet
+SM-T550,Samsung,Galaxy Tab A,Tablet
+SM-T560NU,Samsung,Galaxy Tab E 9.6 WiFi,Tablet
+SM-T560NU,Samsung,Galaxy Tab E 9.6 WiFi,Tablet
+LM-X210,LG,Aristo 2,SmartPhone
+LM-X210,LG,Aristo 2,SmartPhone
+LM-X210K,LG,X2 (2018),SmartPhone
+LM-X210K,LG,X2 (2018),SmartPhone
+LM-X210K,LG,X2 (2018),SmartPhone
+LM-X410.F,LG,K11+,SmartPhone
+LM-X410.F,LG,K11+,SmartPhone
+LM-X410.F,LG,K11+,SmartPhone
+LM-X410.F,LG,K11+,SmartPhone
+LM-X410.F,LG,K11+,SmartPhone
+LM-X410.F,LG,K11+,SmartPhone
+Generic Android,Unknown,Generic Android,SmartPhone
+Generic Android,Unknown,Generic Android,SmartPhone
+Redmi 4A,Xiaomi,Redmi 4A,SmartPhone
+Redmi 4A,Xiaomi,Redmi 4A,SmartPhone
+Redmi 4A,Xiaomi,Redmi 4A,SmartPhone
+Redmi 4A,Xiaomi,Redmi 4A,SmartPhone
+Redmi 4A,Xiaomi,Redmi 4A,SmartPhone
+Redmi 4X,Xiaomi,Redmi 4X ,SmartPhone
+Redmi 4X,Xiaomi,Redmi 4X ,SmartPhone
+Redmi 4A,Xiaomi,Redmi 4A,SmartPhone
+Redmi 4A,Xiaomi,Redmi 4A,SmartPhone
+Redmi 4A,Xiaomi,Redmi 4A,SmartPhone
+Redmi 4A,Xiaomi,Redmi 4A,SmartPhone
+Redmi 4A,Xiaomi,Redmi 4A,SmartPhone
+Redmi 4A,Xiaomi,Redmi 4A,SmartPhone
+Redmi 4A,Xiaomi,Redmi 4A,SmartPhone
+Redmi 4A,Xiaomi,Redmi 4A,SmartPhone
+Redmi 4A,Xiaomi,Redmi 4A,SmartPhone
+Redmi 5 Plus,Xiaomi,Redmi 5 Plus,SmartPhone
+Redmi 5 Plus,Xiaomi,Redmi 5 Plus,SmartPhone
+Redmi 5 Plus,Xiaomi,Redmi 5 Plus,SmartPhone
+Redmi 5 Plus,Xiaomi,Redmi 5 Plus,SmartPhone
+Redmi 5 Plus,Xiaomi,Redmi 5 Plus,SmartPhone
+Redmi 5 Plus,Xiaomi,Redmi 5 Plus,SmartPhone
+Redmi 5A,Xiaomi,Redmi 5A,SmartPhone
+Redmi 4A,Xiaomi,Redmi 4A,SmartPhone
+Redmi Note 5A Prime,Xiaomi,Redmi Note 5A,SmartPhone
+Redmi Note 5A,Xiaomi,Redmi Note 5A,SmartPhone
+602SO,Sony,Xperia XZs,SmartPhone
+AGS2-L09,Huawei,MediaPad T5,Tablet
+AGS2-L09,Huawei,MediaPad T5,Tablet
+AGS2-L09,Huawei,MediaPad T5,Tablet
+AGS2-L09,Huawei,MediaPad T5,Tablet
+AGS2-L09,Huawei,MediaPad T5,Tablet
+AGS2-L09,Huawei,MediaPad T5,Tablet
+AGS2-L09,Huawei,MediaPad T5,Tablet
+AGS2-W09HN,Huawei,AGS2-W09HN,Tablet
+ANE-LX1,Huawei,P20 lite,SmartPhone
+ANE-LX2J,Huawei,P20 lite,SmartPhone
+ANE-LX2J,Huawei,P20 lite,SmartPhone
+ATU-L21,Huawei,Y6 2018,SmartPhone
+ATU-L42,Huawei,Y6 Prime 2018,SmartPhone
+AUM-L29,Huawei,Honor 7A Pro,SmartPhone
+AUM-L29,Huawei,Honor 7A Pro,SmartPhone
+AUM-L41,Huawei,Honor 7C,SmartPhone
+AUM-L41,Huawei,Honor 7C,SmartPhone
+BAH2-L09,Huawei,MediaPad M5 lite,Tablet
+BAH2-L09,Huawei,MediaPad M5 lite,Tablet
+BAH2-W09,Huawei,MediaPad M5 lite,Tablet
+BV6800 Pro,Blackview,BV6800 Pro,SmartPhone
+FLA-LX2 ,Huawei,Y9 2018,SmartPhone
+FLA-LX2 ,Huawei,Y9 2018,SmartPhone
+K8,Lenovo,K8,SmartPhone
+K8,Lenovo,K8,SmartPhone
+Mi 5,Xiaomi,Mi 5,SmartPhone
+RNE-L01,Huawei,Mate 10 lite,SmartPhone
+RNE-L01,Huawei,Mate 10 lite,SmartPhone
+RNE-L01,Huawei,Mate 10 lite,SmartPhone
+RNE-L21,Huawei,Mate 10 lite,SmartPhone
+RNE-L21,Huawei,Mate 10 lite,SmartPhone
+RNE-L21,Huawei,Mate 10 lite,SmartPhone
+RNE-L22,Huawei,Honor 9i,SmartPhone
+RNE-L21,Huawei,Mate 10 lite,SmartPhone
+SM-A320FL,Samsung,Galaxy A3,SmartPhone
+SM-A520F,Samsung,Galaxy A5,SmartPhone
+SM-A520L,Samsung,Galaxy A5,SmartPhone
+SM-A910F,Samsung,Galaxy A9 Pro,SmartPhone
+SM-G570M,Samsung,Galaxy J5 Prime,SmartPhone
+SM-G570M,Samsung,Galaxy J5 Prime,SmartPhone
+SM-G570M,Samsung,Galaxy J5 Prime,SmartPhone
+SM-G930A,Samsung,Galaxy S7,SmartPhone
+SM-G930F,Samsung,Galaxy S7,SmartPhone
+SM-G935S,Samsung,Galaxy S7 Edge,SmartPhone
+SM-A520F,Samsung,Galaxy A5,SmartPhone
+SM-A520F,Samsung,Galaxy A5,SmartPhone
+SM-A520W,Samsung,Galaxy A5,SmartPhone
+SM-A605G,Samsung,Galaxy A6+,SmartPhone
+SM-A605G,Samsung,Galaxy A6+,SmartPhone
+SM-A720F,Samsung,Galaxy A7,SmartPhone
+SM-A750FN,Samsung,Galaxy A7 (2018),SmartPhone
+SM-A910F,Samsung,Galaxy A9 Pro,SmartPhone
+SM-C900F,Samsung,Galaxy C9 Pro,SmartPhone
+SM-C900F,Samsung,Galaxy C9 Pro,SmartPhone
+SM-G570F,Samsung,Galaxy J5 Prime,SmartPhone
+SM-G570F,Samsung,Galaxy J5 Prime,SmartPhone
+SM-G570M,Samsung,Galaxy J5 Prime,SmartPhone
+SM-G570M,Samsung,Galaxy J5 Prime,SmartPhone
+SM-G570M,Samsung,Galaxy J5 Prime,SmartPhone
+SM-G570M,Samsung,Galaxy J5 Prime,SmartPhone
+SM-G570M,Samsung,Galaxy J5 Prime,SmartPhone
+SM-G570M,Samsung,Galaxy J5 Prime,SmartPhone
+SM-G570M,Samsung,Galaxy J5 Prime,SmartPhone
+SM-G570Y,Samsung,Galaxy J5 Prime,SmartPhone
+SM-G570Y,Samsung,Galaxy J5 Prime,SmartPhone
+SM-G570Y,Samsung,Galaxy J5 Prime,SmartPhone
+SM-G570Y,Samsung,Galaxy J5 Prime,SmartPhone
+SM-G930F,Samsung,Galaxy S7,SmartPhone
+SM-G930F,Samsung,Galaxy S7,SmartPhone
+SM-G930F,Samsung,Galaxy S7,SmartPhone
+SM-G930F,Samsung,Galaxy S7,SmartPhone
+SM-G930S,Samsung,Galaxy S7,SmartPhone
+SM-G935F,Samsung,Galaxy S7 Edge,SmartPhone
+SM-G935F,Samsung,Galaxy S7 Edge,SmartPhone
+SM-G935K,Samsung,Galaxy S7 Edge,SmartPhone
+SM-G935U,Samsung,Galaxy S7 Edge,SmartPhone
+SM-G960U,Samsung,Galaxy S9,SmartPhone
+SM-J330F,Samsung,Galaxy J3 (2017),SmartPhone
+SM-J337AZ,Samsung,Galaxy Amp Prime 3,SmartPhone
+SM-J400F,Samsung,Galaxy J4,SmartPhone
+SM-J400M,Samsung,Galaxy J4,SmartPhone
+SM-J400M,Samsung,Galaxy J4,SmartPhone
+SM-J400M,Samsung,Galaxy J4,SmartPhone
+SM-J720F,Samsung,Galaxy J7 Duo,SmartPhone
+WAS-LX1,Huawei,P10 LITE,SmartPhone
+WAS-LX1,Huawei,P10 LITE,SmartPhone
+WAS-LX1A,Huawei,P10 LITE,SmartPhone
+WAS-LX1A,Huawei,P10 LITE,SmartPhone
+Moto E Plus (5th Gen.),Motorola,Moto E Plus (5th Gen.),SmartPhone
+Moto G (6th Gen.),Motorola,Moto G (6th Gen.),SmartPhone
+Moto G (6th Gen.),Motorola,Moto G (6th Gen.),SmartPhone
+5033M,ALCATEL,1,SmartPhone
+5059Z,ALCATEL,1X Evolve,SmartPhone
+8082,ALCATEL,1T 10,Tablet
+ARS-L22,Huawei,Y MAX,SmartPhone
+X00HD,Asus,ZenFone 4 Max,SmartPhone
+Aquaris M10,bq,Aquaris M10,Tablet
+Armor X2,Ulefone,Armor X2,SmartPhone
+BKK-L21,Huawei,Honor 8C,SmartPhone
+BKK-LX2,Huawei,Honor 8C,SmartPhone
+CAG-L22,Huawei,Y3 2018,SmartPhone
+CPH1803,OPPO,A3S,SmartPhone
+CPH1803,OPPO,A3S,SmartPhone
+CPH1803,OPPO,A3S,SmartPhone
+CPH1803,OPPO,A3S,SmartPhone
+CPH1803,OPPO,A3S,SmartPhone
+CPH1803,OPPO,A3S,SmartPhone
+CPH1803,OPPO,A3S,SmartPhone
+CPH1803,OPPO,A3S,SmartPhone
+CPH1823,OPPO,F9 Pro,SmartPhone
+CPH1859,OPPO,RealMe 1,SmartPhone
+CPH1859,OPPO,RealMe 1,SmartPhone
+CPH1909,OPPO,A5S,SmartPhone
+CPH1909,OPPO,A5S,SmartPhone
+CPH1909,OPPO,A5S,SmartPhone
+CPH1909,OPPO,A5S,SmartPhone
+CPH1909,OPPO,A5S,SmartPhone
+CPH1909,OPPO,A5S,SmartPhone
+CPH1909,OPPO,A5S,SmartPhone
+CPH1909,OPPO,A5S,SmartPhone
+CPH1909,OPPO,A5S,SmartPhone
+CPH1909,OPPO,A5S,SmartPhone
+CPH1909,OPPO,A5S,SmartPhone
+CPH1909,OPPO,A5S,SmartPhone
+CPH1909,OPPO,A5S,SmartPhone
+CPH1909,OPPO,A5S,SmartPhone
+CPH1912,OPPO,A5S,SmartPhone
+DRA-LX2,Huawei,Y5 Prime 2018,SmartPhone
+DRA-LX2,Huawei,Y5 Prime 2018,SmartPhone
+DUA-L22,Huawei,Honor 7A,SmartPhone
+DUB-LX1,Huawei,Y7 2019,SmartPhone
+DUB-LX1,Huawei,Y7 2019,SmartPhone
+DUB-LX1,Huawei,Y7 2019,SmartPhone
+DUB-LX1,Huawei,Y7 2019,SmartPhone
+DUB-LX1,Huawei,Y7 2019,SmartPhone
+DUB-LX1,Huawei,Y7 2019,SmartPhone
+DUB-LX1,Huawei,Y7 2019,SmartPhone
+DUB-LX1,Huawei,Y7 2019,SmartPhone
+DUB-LX1,Huawei,Y7 2019,SmartPhone
+DUB-LX1,Huawei,Y7 2019,SmartPhone
+DUB-LX1,Huawei,Y7 2019,SmartPhone
+DUB-LX1,Huawei,Y7 2019,SmartPhone
+DUB-LX1,Huawei,Y7 2019,SmartPhone
+DUB-LX1,Huawei,Y7 2019,SmartPhone
+F-01L,DoCoMo,F-01L,SmartPhone
+H96 Max X2,Unknown,H96 Max X2,MediaHub
+I4312,Sony,Xperia L3,SmartPhone
+INE-LX2,Huawei,nova 3i,SmartPhone
+X623,Infinix,HOT 6X,SmartPhone
+C5000,KINGCOMM,SUPER SMART X3,SmartPhone
+T02,LG,G Pad 8.0 III,Tablet
+LM-Q710(FGN),LG,Stylo 4,SmartPhone
+LM-Q710.FG,LG,Stylo 4,SmartPhone
+LMX210CM,LG,Fortune 2,SmartPhone
+LM-X210(G),LG,Aristo 2,SmartPhone
+MS80X,Multilaser,MS80X,SmartPhone
+Moto G Plus (5th Gen.),Motorola,Moto G Plus (5th Gen.),SmartPhone
+Moto G Plus (5th Gen.),Motorola,Moto G Plus (5th Gen.),SmartPhone
+Moto G Plus (5th Gen S.),Motorola,Moto G Plus (5th Gen S.),SmartPhone
+Qualcore 1027 3G,Overmax,Qualcore 1027 3G,Tablet
+ONE ,HTC,One,SmartPhone
+PMT3831_4G,Prestigio,Muze 3831 4G,Tablet
+RMX1811,Realme,C1,SmartPhone
+RMX1811,Realme,C1,SmartPhone
+Redmi 5 Plus,Xiaomi,Redmi 5 Plus,SmartPhone
+Redmi 5 Plus,Xiaomi,Redmi 5 Plus,SmartPhone
+Redmi 5 Plus,Xiaomi,Redmi 5 Plus,SmartPhone
+Redmi 5 Plus,Xiaomi,Redmi 5 Plus,SmartPhone
+Redmi 5 Plus,Xiaomi,Redmi 5 Plus,SmartPhone
+Redmi 5A,Xiaomi,Redmi 5A,SmartPhone
+Redmi 5A,Xiaomi,Redmi 5A,SmartPhone
+Redmi 5A,Xiaomi,Redmi 5A,SmartPhone
+Redmi 5A,Xiaomi,Redmi 5A,SmartPhone
+Redmi 5A,Xiaomi,Redmi 5A,SmartPhone
+Redmi 6 Pro,Xiaomi,Redmi 6 Pro,SmartPhone
+Redmi 6A,Xiaomi,Redmi 6A,SmartPhone
+Redmi 5A,Xiaomi,Redmi 5A,SmartPhone
+Redmi 5A,Xiaomi,Redmi 5A,SmartPhone
+Redmi Note 5,Xiaomi,Redmi Note 5,SmartPhone
+Redmi 5A,Xiaomi,Redmi 5A,SmartPhone
+S31,CAT,S31,SmartPhone
+SM-G610F,Samsung,Galaxy J7 Prime,SmartPhone
+SM-J260T1,Samsung,Galaxy J2,SmartPhone
+SM-J610F,Samsung,Galaxy J6+,SmartPhone
+SM-J701F,Samsung,Galaxy J7 Nxt,SmartPhone
+SM-J710F,Samsung,SM-J710F,SmartPhone
+SM-J710MN,Samsung,Galaxy J7 Metal,SmartPhone
+SM-J727T1,Samsung,Galaxy J7,SmartPhone
+SM-T580,Samsung,Galaxy Tab A 2016 10.1,Tablet
+SM-T580,Samsung,Galaxy Tab A 2016 10.1,Tablet
+SM-T590,Samsung,Galaxy Tab A 10.5,Tablet
+SM-A260F,Samsung,Galaxy A2 Core,SmartPhone
+SM-G610F,Samsung,Galaxy J7 Prime,SmartPhone
+SM-G610F,Samsung,Galaxy J7 Prime,SmartPhone
+SM-G610F,Samsung,Galaxy J7 Prime,SmartPhone
+SM-G610F,Samsung,Galaxy J7 Prime,SmartPhone
+SM-G610F,Samsung,Galaxy J7 Prime,SmartPhone
+SM-G610F,Samsung,Galaxy J7 Prime,SmartPhone
+SM-G610F,Samsung,Galaxy J7 Prime,SmartPhone
+SM-G610F,Samsung,Galaxy J7 Prime,SmartPhone
+SM-G610M,Samsung,Galaxy J7 Prime,SmartPhone
+SM-G610M,Samsung,Galaxy J7 Prime,SmartPhone
+SM-G610M,Samsung,Galaxy J7 Prime,SmartPhone
+SM-G610M,Samsung,Galaxy J7 Prime,SmartPhone
+SM-G610M,Samsung,Galaxy J7 Prime,SmartPhone
+SM-G610M,Samsung,Galaxy J7 Prime,SmartPhone
+SM-G610M,Samsung,Galaxy J7 Prime,SmartPhone
+SM-J260F,Samsung,Galaxy J2 Core,SmartPhone
+SM-J260F,Samsung,Galaxy J2 Core,SmartPhone
+SM-J260F,Samsung,Galaxy J2 Core,SmartPhone
+SM-J260F,Samsung,Galaxy J2 Core,SmartPhone
+SM-J260F,Samsung,Galaxy J2 Core,SmartPhone
+SM-J260GU,Samsung,Galaxy J2 Core 2020,SmartPhone
+SM-J260M,Samsung,Galaxy J2 Core,SmartPhone
+SM-J260T1,Samsung,Galaxy J2,SmartPhone
+SM-J260T1,Samsung,Galaxy J2,SmartPhone
+SM-J410F,Samsung,Galaxy J4 Core,SmartPhone
+SM-J410G,Samsung,Galaxy J4 Core,SmartPhone
+SM-J410G,Samsung,Galaxy J4 Core,SmartPhone
+SM-J410G,Samsung,Galaxy J4 Core,SmartPhone
+SM-J415F,Samsung,Galaxy J4+,SmartPhone
+SM-J610F,Samsung,Galaxy J6+,SmartPhone
+SM-J610G,Samsung,Galaxy J6+,SmartPhone
+SM-J701MT,Samsung,Galaxy J7 Neo,SmartPhone
+SM-J710F,Samsung,SM-J710F,SmartPhone
+SM-J710F,Samsung,SM-J710F,SmartPhone
+SM-J710F,Samsung,SM-J710F,SmartPhone
+SM-J710F,Samsung,SM-J710F,SmartPhone
+SM-J710F,Samsung,SM-J710F,SmartPhone
+SM-J710FQ,Samsung,Galaxy J7,SmartPhone
+SM-J727T1,Samsung,Galaxy J7,SmartPhone
+SM-J727T1,Samsung,Galaxy J7,SmartPhone
+SM-T580,Samsung,Galaxy Tab A 2016 10.1,Tablet
+SM-T580,Samsung,Galaxy Tab A 2016 10.1,Tablet
+SM-T580,Samsung,Galaxy Tab A 2016 10.1,Tablet
+SM-T580,Samsung,Galaxy Tab A 2016 10.1,Tablet
+SM-T580,Samsung,Galaxy Tab A 2016 10.1,Tablet
+SM-T580,Samsung,Galaxy Tab A 2016 10.1,Tablet
+SM-T580,Samsung,Galaxy Tab A 2016 10.1,Tablet
+SM-T585,Samsung,Galaxy Tab A,Tablet
+SM-T585,Samsung,Galaxy Tab A,Tablet
+TA-1032,HMD Global,Nokia 3,SmartPhone
+B1p,Tecno,POP 2 Power,SmartPhone
+BA2,Tecno,POP 2 Plus,SmartPhone
+KA7,Tecno,Spark 2,SmartPhone
+LA7,Tecno,Pouvoir 2,SmartPhone
+Generic Android,Unknown,Generic Android,SmartPhone
+Moto E Play (5th Gen.),Motorola,Moto E Play (5th Gen.),SmartPhone
+1716,Vivo,V7+,SmartPhone
+1718,Vivo,V7,SmartPhone
+1724,Vivo,Y71,SmartPhone
+1803,Vivo,Y81,SmartPhone
+1807,Vivo,Y95,SmartPhone
+1807,Vivo,Y95,SmartPhone
+1807,Vivo,Y95,SmartPhone
+1807,Vivo,Y95,SmartPhone
+1811,Vivo,Y93,SmartPhone
+1811,Vivo,Y93,SmartPhone
+1811,Vivo,Y93,SmartPhone
+1811,Vivo,Y93,SmartPhone
+1811,Vivo,Y93,SmartPhone
+1814,Vivo,1814,SmartPhone
+1814,Vivo,1814,SmartPhone
+1814,Vivo,1814,SmartPhone
+1814,Vivo,1814,SmartPhone
+1816,Vivo,Y91i,SmartPhone
+1817,Vivo,Y91,SmartPhone
+1820,Vivo,Y91C,SmartPhone
+1820,Vivo,Y91C,SmartPhone
+1820,Vivo,Y91C,SmartPhone
+1820,Vivo,Y91C,SmartPhone
+1820,Vivo,Y91C,SmartPhone
+1820,Vivo,Y91C,SmartPhone
+1820,Vivo,Y91C,SmartPhone
+1820,Vivo,Y91C,SmartPhone
+1820,Vivo,Y91C,SmartPhone
+1820,Vivo,Y91C,SmartPhone
+1820,Vivo,Y91C,SmartPhone
+1820,Vivo,Y91C,SmartPhone
+1820,Vivo,Y91C,SmartPhone
+1820,Vivo,Y91C,SmartPhone
+1820,Vivo,Y91C,SmartPhone
+1820,Vivo,Y91C,SmartPhone
+5024A,ALCATEL,1S,SmartPhone
+5024A,ALCATEL,1S,SmartPhone
+5024D,ALCATEL,1S,SmartPhone
+5024D,ALCATEL,1S,SmartPhone
+A80 Pro,Blackview,A80 Pro,SmartPhone
+AMN-LX2,Huawei,Y5 2019,SmartPhone
+AMN-LX3,Huawei,Y5 2019,SmartPhone
+AMN-LX9,Huawei,Y5 2019,SmartPhone
+AMN-LX9,Huawei,Y5 2019,SmartPhone
+ANE-LX1,Huawei,P20 lite,SmartPhone
+ANE-LX1,Huawei,P20 lite,SmartPhone
+ANE-LX1,Huawei,P20 lite,SmartPhone
+ANE-LX1,Huawei,P20 lite,SmartPhone
+ANE-LX3,Huawei,P20 lite,SmartPhone
+X00TD,Asus,ZenFone Max Pro (M1),SmartPhone
+X00TD,Asus,ZenFone Max Pro (M1),SmartPhone
+X01BDA,Asus,ZenFone Max Pro (M2),SmartPhone
+BV9100,Blackview,BV9100,SmartPhone
+COR-L29,Huawei,Honor Play,SmartPhone
+CPH1819,OPPO,F7,SmartPhone
+CPH1823,OPPO,F9 Pro,SmartPhone
+CPH1923,OPPO,A1K,SmartPhone
+CPH1931,OPPO,A5 2020,SmartPhone
+CPH1931,OPPO,A5 2020,SmartPhone
+CPH1931,OPPO,A5 2020,SmartPhone
+CPH2015,OPPO,A31,SmartPhone
+CPH2015,OPPO,A31,SmartPhone
+CPH2015,OPPO,A31,SmartPhone
+CPH2015,OPPO,A31,SmartPhone
+CPH2015,OPPO,A31,SmartPhone
+CPH2015,OPPO,A31,SmartPhone
+CPH2015,OPPO,A31,SmartPhone
+CPH2015,OPPO,A31,SmartPhone
+CPH2015,OPPO,A31,SmartPhone
+CPH2015,OPPO,A31,SmartPhone
+CPH2015,OPPO,A31,SmartPhone
+CPH2015,OPPO,A31,SmartPhone
+CPH2015,OPPO,A31,SmartPhone
+CPH2015,OPPO,A31,SmartPhone
+CPH2083,OPPO,A12,SmartPhone
+CPH2083,OPPO,A12,SmartPhone
+CPH2083,OPPO,A12,SmartPhone
+CPH2083,OPPO,A12,SmartPhone
+CPH2083,OPPO,A12,SmartPhone
+CPH2083,OPPO,A12,SmartPhone
+DL3 ,Digicel,DL3 ,SmartPhone
+FIG-LX3,Huawei,P smart,SmartPhone
+FLA-LX3,Huawei,Y9 2018,SmartPhone
+Griffe T9,CONDOR,Griffe T9,SmartPhone
+HAMMER Iron 3 LTE,MyPhone,HAMMER Iron 3 LTE,SmartPhone
+INE-LX1r,Huawei,nova 3i,SmartPhone
+INE-LX1r,Huawei,nova 3i,SmartPhone
+X626B,Infinix,S4,SmartPhone
+X650C,Infinix,Hot 8 ,SmartPhone
+X653C,Infinix,Smart 4,SmartPhone
+J3173,Sony,Xperia Ace,SmartPhone
+JAT-L41,Huawei,HONOR 8A,SmartPhone
+JAT-LX1,Huawei,HONOR 8A,SmartPhone
+JAT-LX1,Huawei,HONOR 8A,SmartPhone
+JAT-LX1,Huawei,HONOR 8A,SmartPhone
+JAT-LX1,Huawei,HONOR 8A,SmartPhone
+JKM-LX1,Huawei,Y9 2019,SmartPhone
+JKM-LX2,Huawei,Y9 2019,SmartPhone
+JKM-LX3,Huawei,Y9 2019,SmartPhone
+JKM-LX3,Huawei,Y9 2019,SmartPhone
+JKM-LX3,Huawei,Y9 2019,SmartPhone
+JSN-L21,Huawei,Honor 8X,SmartPhone
+KFMUWI,Amazon,Fire 7 (2019),Tablet
+KSA-LX9,Huawei,Honor 8S,SmartPhone
+KSA-LX9,Huawei,Honor 8S,SmartPhone
+KSA-LX9,Huawei,Honor 8S,SmartPhone
+KYV46,KDDI,Torque G04,SmartPhone
+L553,Hyundai,L553,SmartPhone
+Moto G (7th Gen.),Motorola,Moto G (7th Gen.),SmartPhone
+H930,LG,V30,SmartPhone
+L722DL,LG,Stylo 5,SmartPhone
+LLD-L21,Huawei,Honor 9 Lite,SmartPhone
+LLD-L31,Huawei,Honor 9 Lite,SmartPhone
+LM-K410,LG,K41S,SmartPhone
+LM-K410,LG,K41S,SmartPhone
+LM-Q720,LG,Stylo 5,SmartPhone
+LM-X120,LG,K20,SmartPhone
+LM-X410(FG),LG,K30,SmartPhone
+LM-X410(FG),LG,K30,SmartPhone
+LM-X420N,LG,X4 (2019),SmartPhone
+LM-X420N,LG,X4 (2019),SmartPhone
+LM-X420N,LG,X4 (2019),SmartPhone
+LM-X430,LG,K40S,SmartPhone
+L19041,Lenovo,A6 Note,SmartPhone
+TB-7305X,Lenovo,Tab M7,Tablet
+Generic Android,Unknown,Generic Android,SmartPhone
+MAR-LX1A,Huawei,P30 lite,SmartPhone
+MAR-LX3Bm,Huawei,P30 lite,SmartPhone
+MAR-LX3Bm,Huawei,P30 lite,SmartPhone
+MHA-L29,Huawei,Mate 9,SmartPhone
+MI 8 Lite,Xiaomi,MI 8 Lite,SmartPhone
+MRD-LX1F,Huawei,Y6 2019,SmartPhone
+MRD-LX1F,Huawei,Y6 2019,SmartPhone
+MRD-LX1F,Huawei,Y6 2019,SmartPhone
+MRD-LX1F,Huawei,Y6 2019,SmartPhone
+MRD-LX1F,Huawei,Y6 2019,SmartPhone
+MRD-LX3,Huawei,Y6 Pro 2019,SmartPhone
+Mi A1,Xiaomi,Mi A1,SmartPhone
+Mi A1,Xiaomi,Mi A1,SmartPhone
+Mi A1,Xiaomi,Mi A1,SmartPhone
+Mi A1,Xiaomi,Mi A1,SmartPhone
+Mi A1,Xiaomi,Mi A1,SmartPhone
+Mi A1,Xiaomi,Mi A1,SmartPhone
+Mi A1,Xiaomi,Mi A1,SmartPhone
+Mi A1,Xiaomi,Mi A1,SmartPhone
+Mi A1,Xiaomi,Mi A1,SmartPhone
+Mi A1,Xiaomi,Mi A1,SmartPhone
+Mi A1,Xiaomi,Mi A1,SmartPhone
+Redmi Note 3,Xiaomi,Redmi Note 3,SmartPhone
+C9 Max,neffos,C9 Max,SmartPhone
+Nokia C1,HMD Global,Nokia C1,SmartPhone
+Note 7P,Ulefone,Note 7P,SmartPhone
+POT-LX1A,Huawei,P smart 2020,SmartPhone
+Moto G (7th Gen.),Motorola,Moto G (7th Gen.),SmartPhone
+Plume L4,CONDOR,Plume L4,SmartPhone
+QUEST,CUBOT,QUEST,SmartPhone
+RMX1833,Realme,U1,SmartPhone
+RMX1851,Realme,3 Pro,SmartPhone
+RMX1911,Realme,5,SmartPhone
+RMX1941,Realme,C2,SmartPhone
+RMX1941,Realme,C2,SmartPhone
+RMX1941,Realme,C2,SmartPhone
+RMX1941,Realme,C2,SmartPhone
+RMX1941,Realme,C2,SmartPhone
+RMX1941,Realme,C2,SmartPhone
+RMX1941,Realme,C2,SmartPhone
+RMX1945,Realme,C2,SmartPhone
+Redmi 6,Xiaomi,Redmi 6,SmartPhone
+Redmi Note 8 Pro,Xiaomi,Redmi Note 8 Pro,SmartPhone
+Redmi Note 8 Pro,Xiaomi,Redmi Note 8 Pro,SmartPhone
+Redmi Note 8 Pro,Xiaomi,Redmi Note 8 Pro,SmartPhone
+Redmi Note 8 Pro,Xiaomi,Redmi Note 8 Pro,SmartPhone
+Redmi Note 8 Pro,Xiaomi,Redmi Note 8 Pro,SmartPhone
+Redmi 6A,Xiaomi,Redmi 6A,SmartPhone
+Redmi 6A,Xiaomi,Redmi 6A,SmartPhone
+Redmi 6A,Xiaomi,Redmi 6A,SmartPhone
+Redmi Note 8 Pro,Xiaomi,Redmi Note 8 Pro,SmartPhone
+Redmi 7A,Xiaomi,Redmi 7A,SmartPhone
+Redmi 7A,Xiaomi,Redmi 7A,SmartPhone
+Redmi 7A,Xiaomi,Redmi 7A,SmartPhone
+Redmi 8,Xiaomi,Redmi 8,SmartPhone
+Redmi 8,Xiaomi,Redmi 8,SmartPhone
+Redmi Note 8 Pro,Xiaomi,Redmi Note 8 Pro,SmartPhone
+Redmi Note 8 Pro,Xiaomi,Redmi Note 8 Pro,SmartPhone
+Redmi 8A Dual,Xiaomi,Redmi 8A Dual,SmartPhone
+Redmi 8A,Xiaomi,Redmi 8A,SmartPhone
+Redmi 8A,Xiaomi,Redmi 8A,SmartPhone
+Redmi 8A,Xiaomi,Redmi 8A,SmartPhone
+Redmi 8A,Xiaomi,Redmi 8A,SmartPhone
+Redmi 8A,Xiaomi,Redmi 8A,SmartPhone
+Redmi Note 5,Xiaomi,Redmi Note 5,SmartPhone
+Redmi Note 5,Xiaomi,Redmi Note 5,SmartPhone
+Redmi Note 8T,Xiaomi,Redmi Note 8T,SmartPhone
+Redmi Note 8T,Xiaomi,Redmi Note 8T,SmartPhone
+Redmi Note 8T,Xiaomi,Redmi Note 8T,SmartPhone
+Redmi Note 8T,Xiaomi,Redmi Note 8T,SmartPhone
+Redmi Note 8T,Xiaomi,Redmi Note 8T,SmartPhone
+Redmi Note 8T,Xiaomi,Redmi Note 8T,SmartPhone
+Redmi Note 7,Xiaomi,Redmi Note 7,SmartPhone
+Redmi Note 8T,Xiaomi,Redmi Note 8T,SmartPhone
+Redmi Note 8T,Xiaomi,Redmi Note 8T,SmartPhone
+Redmi Note 8T,Xiaomi,Redmi Note 8T,SmartPhone
+Redmi Note 8T,Xiaomi,Redmi Note 8T,SmartPhone
+Redmi Note 8T,Xiaomi,Redmi Note 8T,SmartPhone
+Redmi Note 8T,Xiaomi,Redmi Note 8T,SmartPhone
+Redmi Note 8T,Xiaomi,Redmi Note 8T,SmartPhone
+Redmi Note 8T,Xiaomi,Redmi Note 8T,SmartPhone
+Redmi Note 8T,Xiaomi,Redmi Note 8T,SmartPhone
+Redmi Note 8T,Xiaomi,Redmi Note 8T,SmartPhone
+Redmi Note 8T,Xiaomi,Redmi Note 8T,SmartPhone
+Redmi Note 8T,Xiaomi,Redmi Note 8T,SmartPhone
+Redmi Note 8T,Xiaomi,Redmi Note 8T,SmartPhone
+Redmi Note 8T,Xiaomi,Redmi Note 8T,SmartPhone
+Redmi Note 8,Xiaomi,Redmi Note 8,SmartPhone
+Redmi Note 8T,Xiaomi,Redmi Note 8T,SmartPhone
+Redmi Note 8T,Xiaomi,Redmi Note 8T,SmartPhone
+Redmi Note 8T,Xiaomi,Redmi Note 8T,SmartPhone
+Redmi Note 8T,Xiaomi,Redmi Note 8T,SmartPhone
+Redmi Note 8T,Xiaomi,Redmi Note 8T,SmartPhone
+Redmi Note 8T,Xiaomi,Redmi Note 8T,SmartPhone
+Redmi Note 8T,Xiaomi,Redmi Note 8T,SmartPhone
+Redmi Note 8T,Xiaomi,Redmi Note 8T,SmartPhone
+Redmi Note 8T,Xiaomi,Redmi Note 8T,SmartPhone
+Redmi Note 8T,Xiaomi,Redmi Note 8T,SmartPhone
+Redmi Note 8T,Xiaomi,Redmi Note 8T,SmartPhone
+Redmi Note 8T,Xiaomi,Redmi Note 8T,SmartPhone
+Redmi Note 8T,Xiaomi,Redmi Note 8T,SmartPhone
+Redmi Note 8T,Xiaomi,Redmi Note 8T,SmartPhone
+Redmi Note 8T,Xiaomi,Redmi Note 8T,SmartPhone
+Redmi Note 8T,Xiaomi,Redmi Note 8T,SmartPhone
+Redmi Note 8T,Xiaomi,Redmi Note 8T,SmartPhone
+Redmi Note 8T,Xiaomi,Redmi Note 8T,SmartPhone
+Redmi S2,Xiaomi,Redmi S2,SmartPhone
+Redmi S2,Xiaomi,Redmi S2,SmartPhone
+Generic Android,Unknown,Generic Android,SmartPhone
+SM-A202F,Samsung,Galaxy A20e,SmartPhone
+SM-A505F,Samsung,Galaxy A50,SmartPhone
+SM-A750F,Samsung,Galaxy A7 (2018),SmartPhone
+SM-G950F,Samsung,Galaxy S8,SmartPhone
+SM-G950F,Samsung,Galaxy S8,SmartPhone
+SM-G955F,Samsung,Galaxy S8+,SmartPhone
+SM-J400M,Samsung,Galaxy J4,SmartPhone
+SM-J415G,Samsung,Galaxy J4+,SmartPhone
+SM-J530FM,Samsung,Galaxy J5 (2017) DUOS,SmartPhone
+SM-J701F,Samsung,Galaxy J7 Nxt,SmartPhone
+SM-J730G,Samsung,Galaxy J7 Pro,SmartPhone
+SM-S367VL,Samsung,Galaxy J3 Orbit,SmartPhone
+SM-S767VL,Samsung,Galaxy J7 Crown,SmartPhone
+SCV36,KDDI,Galaxy S8,SmartPhone
+SH-01K,DoCoMo,AQUOS sense SH-01K,SmartPhone
+SHV45,Sharp,AQUOS sense3,SmartPhone
+SHV48,Sharp,AQUOS sense3 basic,SmartPhone
+SM-A105F,Samsung,Galaxy A10,SmartPhone
+SM-A105F,Samsung,Galaxy A10,SmartPhone
+SM-A105F,Samsung,Galaxy A10,SmartPhone
+SM-A105FN,Samsung,Galaxy A10,SmartPhone
+SM-A105FN,Samsung,Galaxy A10,SmartPhone
+SM-A105G,Samsung,Galaxy A10,SmartPhone
+SM-A105M,Samsung,Galaxy A10,SmartPhone
+SM-A105M,Samsung,Galaxy A10,SmartPhone
+SM-A105M,Samsung,Galaxy A10,SmartPhone
+SM-A105M,Samsung,Galaxy A10,SmartPhone
+SM-A105M,Samsung,Galaxy A10,SmartPhone
+SM-A105M,Samsung,Galaxy A10,SmartPhone
+SM-A107F,Samsung,Galaxy A10S,SmartPhone
+SM-A107F,Samsung,Galaxy A10S,SmartPhone
+SM-A107F,Samsung,Galaxy A10S,SmartPhone
+SM-A107M,Samsung,Galaxy A10S,SmartPhone
+SM-A107M,Samsung,Galaxy A10S,SmartPhone
+SM-A205F,Samsung,Galaxy A20,SmartPhone
+SM-A205F,Samsung,Galaxy A20,SmartPhone
+SM-A205F,Samsung,Galaxy A20,SmartPhone
+SM-A205G,Samsung,Galaxy A20,SmartPhone
+SM-A205G,Samsung,Galaxy A20,SmartPhone
+SM-A205G,Samsung,Galaxy A20,SmartPhone
+SM-A205G,Samsung,Galaxy A20,SmartPhone
+SM-A207F,Samsung,Galaxy A20s,SmartPhone
+SM-A207F,Samsung,Galaxy A20s,SmartPhone
+SM-A207F,Samsung,Galaxy A20s,SmartPhone
+SM-A207F,Samsung,Galaxy A20s,SmartPhone
+SM-A207M,Samsung,Galaxy A20s,SmartPhone
+SM-A207M,Samsung,Galaxy A20s,SmartPhone
+SM-A207M,Samsung,Galaxy A20s,SmartPhone
+SM-A305G,Samsung,Galaxy A30,SmartPhone
+SM-A307FN,Samsung,Galaxy A30s,SmartPhone
+SM-A405FN,Samsung,Galaxy A40,SmartPhone
+SM-A405FN,Samsung,Galaxy A40,SmartPhone
+SM-A505FM,Samsung,Galaxy A50,SmartPhone
+SM-A505FM,Samsung,Galaxy A50,SmartPhone
+SM-A505FN,Samsung,Galaxy A50,SmartPhone
+SM-A530F,Samsung,Galaxy A8 (2018),SmartPhone
+SM-A530F,Samsung,Galaxy A8 (2018),SmartPhone
+SM-A530F,Samsung,Galaxy A8 (2018),SmartPhone
+SM-A530F,Samsung,Galaxy A8 (2018),SmartPhone
+SM-A705FN,Samsung,Galaxy A70,SmartPhone
+SM-A730F,Samsung,Galaxy A8+ (2018),SmartPhone
+SM-A730F,Samsung,Galaxy A8+ (2018),SmartPhone
+SM-A750GN,Samsung,Galaxy A7 (2018),SmartPhone
+SM-A750GN,Samsung,Galaxy A7 (2018),SmartPhone
+SM-A750GN,Samsung,Galaxy A7 (2018),SmartPhone
+SM-G611MT,Samsung,Galaxy J7 Prime2 TV,SmartPhone
+SM-G611MT,Samsung,Galaxy J7 Prime2 TV,SmartPhone
+SM-G611MT,Samsung,Galaxy J7 Prime2 TV,SmartPhone
+SM-G611S,Samsung,Galaxy On7 Prime,SmartPhone
+SM-G950F,Samsung,Galaxy S8,SmartPhone
+SM-G950F,Samsung,Galaxy S8,SmartPhone
+SM-G950F,Samsung,Galaxy S8,SmartPhone
+SM-G950F,Samsung,Galaxy S8,SmartPhone
+SM-G950F,Samsung,Galaxy S8,SmartPhone
+SM-G950F,Samsung,Galaxy S8,SmartPhone
+SM-G950F,Samsung,Galaxy S8,SmartPhone
+SM-G950F,Samsung,Galaxy S8,SmartPhone
+SM-G950F,Samsung,Galaxy S8,SmartPhone
+SM-G950U,Samsung,Galaxy S8,SmartPhone
+SM-G955F,Samsung,Galaxy S8+,SmartPhone
+SM-G955F,Samsung,Galaxy S8+,SmartPhone
+SM-G955F,Samsung,Galaxy S8+,SmartPhone
+SM-G955F,Samsung,Galaxy S8+,SmartPhone
+SM-G955F,Samsung,Galaxy S8+,SmartPhone
+SM-G955F,Samsung,Galaxy S8+,SmartPhone
+SM-G955F,Samsung,Galaxy S8+,SmartPhone
+SM-G955F,Samsung,Galaxy S8+,SmartPhone
+SM-G955U,Samsung,Galaxy S8+,SmartPhone
+SM-G960U,Samsung,Galaxy S9,SmartPhone
+SM-G960U1,Samsung,Galaxy S9,SmartPhone
+SM-G973F,Samsung,Galaxy S10,SmartPhone
+SM-G973F,Samsung,Galaxy S10,SmartPhone
+SM-G973F,Samsung,Galaxy S10,SmartPhone
+SM-G973W,Samsung,Galaxy S10,SmartPhone
+SM-G975F,Samsung,Galaxy S10+,SmartPhone
+SM-J330F,Samsung,Galaxy J3 (2017),SmartPhone
+SM-J330F,Samsung,Galaxy J3 (2017),SmartPhone
+SM-J330G,Samsung,Galaxy J3 (2017),SmartPhone
+SM-J400M,Samsung,Galaxy J4,SmartPhone
+SM-J415F,Samsung,Galaxy J4+,SmartPhone
+SM-J415F,Samsung,Galaxy J4+,SmartPhone
+SM-J415F,Samsung,Galaxy J4+,SmartPhone
+SM-J415F,Samsung,Galaxy J4+,SmartPhone
+SM-J415F,Samsung,Galaxy J4+,SmartPhone
+SM-J415FN,Samsung,Galaxy J4+,SmartPhone
+SM-J415G,Samsung,Galaxy J4+,SmartPhone
+SM-J415G,Samsung,Galaxy J4+,SmartPhone
+SM-J415G,Samsung,Galaxy J4+,SmartPhone
+SM-J415G,Samsung,Galaxy J4+,SmartPhone
+SM-J415G,Samsung,Galaxy J4+,SmartPhone
+SM-J415G,Samsung,Galaxy J4+,SmartPhone
+SM-J530G,Samsung,Galaxy J5 (2017),SmartPhone
+SM-J530G,Samsung,Galaxy J5 (2017),SmartPhone
+SM-J530G,Samsung,Galaxy J5 (2017),SmartPhone
+SM-J530G,Samsung,Galaxy J5 (2017),SmartPhone
+SM-J530G,Samsung,Galaxy J5 (2017),SmartPhone
+SM-J600G,Samsung,Galaxy J6,SmartPhone
+SM-J600GT,Samsung,Galaxy J6,SmartPhone
+SM-J701F,Samsung,Galaxy J7 Nxt,SmartPhone
+SM-J701F,Samsung,Galaxy J7 Nxt,SmartPhone
+SM-J701MT,Samsung,Galaxy J7 Neo,SmartPhone
+SM-J701MT,Samsung,Galaxy J7 Neo,SmartPhone
+SM-J701MT,Samsung,Galaxy J7 Neo,SmartPhone
+SM-J701MT,Samsung,Galaxy J7 Neo,SmartPhone
+SM-J720M,Samsung,Galaxy J7 Duo,SmartPhone
+SM-J730F,Samsung,Galaxy J7 (2017),SmartPhone
+SM-J730F,Samsung,Galaxy J7 (2017),SmartPhone
+SM-J730F,Samsung,Galaxy J7 (2017),SmartPhone
+SM-J730F,Samsung,Galaxy J7 (2017),SmartPhone
+SM-J730F,Samsung,Galaxy J7 (2017),SmartPhone
+SM-J730F,Samsung,Galaxy J7 (2017),SmartPhone
+SM-J730G,Samsung,Galaxy J7 Pro,SmartPhone
+SM-J730G,Samsung,Galaxy J7 Pro,SmartPhone
+SM-J730GM,Samsung,Galaxy J7 Pro,SmartPhone
+SM-J730GM,Samsung,Galaxy J7 Pro,SmartPhone
+SM-J737T1,Samsung,Galaxy J7 Star,SmartPhone
+SM-M105M,Samsung,Galaxy M10,SmartPhone
+SM-M305M,Samsung,Galaxy M30,SmartPhone
+SM-N935F,Samsung,Galaxy Note FE,SmartPhone
+SM-N950F,Samsung,Galaxy Note8,SmartPhone
+SM-N950F,Samsung,Galaxy Note8,SmartPhone
+SM-N950N,Samsung,Galaxy Note8,SmartPhone
+SM-N950N,Samsung,Galaxy Note8,SmartPhone
+SM-N950U,Samsung,Galaxy Note8,SmartPhone
+SM-N975F,Samsung,Galaxy Note10+,SmartPhone
+SM-T295,Samsung,Galaxy Tab A (2019, 8.0, LTE),Tablet
+T385,LG,Cookie Smart,SmartPhone
+SM-T510,Samsung,Galaxy Tab A (2019, 10.1),Tablet
+SM-T595,Samsung,Galaxy Tab A (2018),Tablet
+SO-01K,DoCoMo,Xperia XZ SO-01K,SmartPhone
+SO-02K,DoCoMo,Xperia XZ1 Compact SO-02K,SmartPhone
+STK-L21,Huawei,Y9 Prime 2019,SmartPhone
+T10,TAGITAL,T10,Tablet
+T5,DOOGEE,T5,SmartPhone
+T5,DOOGEE,T5,SmartPhone
+TA-1004,HMD Global,Nokia 8,SmartPhone
+TA-1004,HMD Global,Nokia 8,SmartPhone
+TA-1012,HMD Global,Nokia 8,SmartPhone
+TA-1032,HMD Global,Nokia 3,SmartPhone
+KC3,Tecno,CAMON 12 Air,SmartPhone
+VKY-L29,Huawei,P10 Plus,SmartPhone
+S10,VANKYO,MatrixPad S10,Tablet
+Generic Android,Unknown,Generic Android,SmartPhone
+W-V720,Wiko,Y80,SmartPhone
+XQ-AD52,Sony,Xperia L4,SmartPhone
+YAL-L21,Huawei,HONOR 20,SmartPhone
+ZB602KL,Asus,ZenFone Max Pro (M1),SmartPhone
+2050,ZTE,Blade 20 Smart,SmartPhone
+2050,ZTE,Blade 20 Smart,SmartPhone
+Blade A3 2019RU,ZTE,Blade A3 2019,SmartPhone
+Blade A3 2020,ZTE,Blade A3 2020,SmartPhone
+Blade A3 2020,ZTE,Blade A3 2020,SmartPhone
+Blade A5 2019,ZTE,Blade A5 2019,SmartPhone
+Blade A5 2019,ZTE,Blade A5 2019,SmartPhone
+Blade A5 2020,ZTE,Blade A5 2020,SmartPhone
+Blade A7 2020,ZTE,Blade A7 2020,SmartPhone
+Blade A7 2020,ZTE,Blade A7 2020,SmartPhone
+2050,ZTE,Blade 20 Smart,SmartPhone
+2050,ZTE,Blade 20 Smart,SmartPhone
+2050,ZTE,Blade 20 Smart,SmartPhone
+Blade V10 Vita,ZTE,Blade V10 Vita,SmartPhone
+d-02K,DoCoMo,dtab Compact d-02K,Tablet
+d-02K,DoCoMo,dtab Compact d-02K,Tablet
+d-02K,DoCoMo,dtab Compact d-02K,Tablet
+L5002,iTel,A25,SmartPhone
+L5002,iTel,A25,SmartPhone
+L5002,iTel,A25,SmartPhone
+L5002,iTel,A25,SmartPhone
+W5505,iTel,A36,SmartPhone
+W6004,iTel,A56,SmartPhone
+Note 9,Meizu,Note 9,SmartPhone
+Moto G Plus (6th Gen.),Motorola,Moto G Plus (6th Gen.),SmartPhone
+Moto G Plus (6th Gen.),Motorola,Moto G Plus (6th Gen.),SmartPhone
+Moto G Plus (6th Gen.),Motorola,Moto G Plus (6th Gen.),SmartPhone
+Moto G Plus (6th Gen.),Motorola,Moto G Plus (6th Gen.),SmartPhone
+Moto G Plus (6th Gen.),Motorola,Moto G Plus (6th Gen.),SmartPhone
+Moto G Plus (6th Gen.),Motorola,Moto G Plus (6th Gen.),SmartPhone
+Moto G Plus (6th Gen.),Motorola,Moto G Plus (6th Gen.),SmartPhone
+Moto G Plus (6th Gen.),Motorola,Moto G Plus (6th Gen.),SmartPhone
+Moto G Plus (6th Gen.),Motorola,Moto G Plus (6th Gen.),SmartPhone
+Moto G (6th Gen.),Motorola,Moto G (6th Gen.),SmartPhone
+Moto G (6th Gen.),Motorola,Moto G (6th Gen.),SmartPhone
+Moto G (6th Gen.),Motorola,Moto G (6th Gen.),SmartPhone
+Moto G (6th Gen.),Motorola,Moto G (6th Gen.),SmartPhone
+Moto G (6th Gen.),Motorola,Moto G (6th Gen.),SmartPhone
+Moto G (6th Gen.),Motorola,Moto G (6th Gen.),SmartPhone
+Moto G (6th Gen.),Motorola,Moto G (6th Gen.),SmartPhone
+Moto G (6th Gen.),Motorola,Moto G (6th Gen.),SmartPhone
+Moto G (6th Gen.),Motorola,Moto G (6th Gen.),SmartPhone
+Moto G (6th Gen.),Motorola,Moto G (6th Gen.),SmartPhone
+Moto G (6th Gen.),Motorola,Moto G (6th Gen.),SmartPhone
+Moto G (6th Gen.),Motorola,Moto G (6th Gen.),SmartPhone
+Moto G (6th Gen.),Motorola,Moto G (6th Gen.),SmartPhone
+Moto G (6th Gen.),Motorola,Moto G (6th Gen.),SmartPhone
+Moto G (6th Gen.),Motorola,Moto G (6th Gen.),SmartPhone
+Moto G (6th Gen.),Motorola,Moto G (6th Gen.),SmartPhone
+Moto G Play (6th Gen.),Motorola,Moto G Play (6th Gen.),SmartPhone
+Moto G Play (6th Gen.),Motorola,Moto G Play (6th Gen.),SmartPhone
+Moto G Play (6th Gen.),Motorola,Moto G Play (6th Gen.),SmartPhone
+Moto G Play (6th Gen.),Motorola,Moto G Play (6th Gen.),SmartPhone
+Moto G Play (6th Gen.),Motorola,Moto G Play (6th Gen.),SmartPhone
+Moto G Play (6th Gen.),Motorola,Moto G Play (6th Gen.),SmartPhone
+Moto G Plus (6th Gen.),Motorola,Moto G Plus (6th Gen.),SmartPhone
+Moto G Plus (6th Gen.),Motorola,Moto G Plus (6th Gen.),SmartPhone
+Moto G (6th Gen.),Motorola,Moto G (6th Gen.),SmartPhone
+Moto G Play (7th Gen.),Motorola,Moto G Play (7th Gen.),SmartPhone
+Moto G Play (7th Gen.),Motorola,Moto G Play (7th Gen.),SmartPhone
+Moto G Play (7th Gen.),Motorola,Moto G Play (7th Gen.),SmartPhone
+Moto G (6th Gen.),Motorola,Moto G (6th Gen.),SmartPhone
+Moto G (6th Gen.),Motorola,Moto G (6th Gen.),SmartPhone
+One action,Motorola,One action,SmartPhone
+Moto G (6th Gen.),Motorola,Moto G (6th Gen.),SmartPhone
+1723,Vivo,V9,SmartPhone
+1901,Vivo,Y15,SmartPhone
+1901,Vivo,Y15,SmartPhone
+1902,Vivo,Y17,SmartPhone
+1902,Vivo,Y17,SmartPhone
+1902,Vivo,Y17,SmartPhone
+1902,Vivo,Y17,SmartPhone
+1902,Vivo,Y17,SmartPhone
+1902,Vivo,Y17,SmartPhone
+1904,Vivo,Y12,SmartPhone
+1904,Vivo,Y12,SmartPhone
+1904,Vivo,Y12,SmartPhone
+1904,Vivo,Y12,SmartPhone
+1906,Vivo,Y11,SmartPhone
+1906,Vivo,Y11,SmartPhone
+1906,Vivo,Y11,SmartPhone
+1906,Vivo,Y11,SmartPhone
+Mi 9 Pro 5G,Xiaomi,Mi 9 Pro 5G,SmartPhone
+SM-A107F,Samsung,Galaxy A10S,SmartPhone
+CPH1911,OPPO,F11,SmartPhone
+M2003J15SC,Xiaomi,Redmi 10X 4G,SmartPhone
+Redmi Note 7,Xiaomi,Redmi Note 7,SmartPhone
+Joy 2+,Vsmart,Joy 2+,SmartPhone
+NEON RAY PRO ,Safaricom,NEON RAY PRO ,SmartPhone
+SM-M105F,Samsung,Galaxy M10,SmartPhone
+Redmi Note 9S,Xiaomi,Redmi Note 9S,SmartPhone
+P3,Tecno,P3,SmartPhone
+YAL-AL00,Huawei,HONOR 20,SmartPhone
+Nokia 9 PureView,HMD Global,Nokia 9 PureView,SmartPhone
+Redmi Note 9 Pro,Xiaomi,Redmi Note 9 Pro,SmartPhone
+R829T,OPPO,OPPO R1,SmartPhone
+E2303,Sony,Xperia M4 Aqua,SmartPhone
+Redmi 3S,Xiaomi,Redmi 3S,SmartPhone
+Redmi 3S,Xiaomi,Redmi 3S,SmartPhone
+LA6,Tecno,Pouvoir 1,SmartPhone
+SM-J250F,Samsung,Galaxy J2 Pro,SmartPhone
+SM-C5000,Samsung,Galaxy C5,SmartPhone
+1814,Vivo,1814,SmartPhone
+KA7O,Tecno,Spark 2,SmartPhone
+Redmi 5 Plus,Xiaomi,Redmi 5 Plus,SmartPhone
+LLD-AL20,Huawei,LLD-AL20,SmartPhone
+RMX1805,Realme,2,SmartPhone
+Redmi Note 8 Pro,Xiaomi,Redmi Note 8 Pro,SmartPhone
+JKM-LX1,Huawei,Y9 2019,SmartPhone
+W5005,iTel,P15,SmartPhone
+BND-AL00,Huawei,Honor Glory play 7X,SmartPhone
+SM-A105F,Samsung,Galaxy A10,SmartPhone
+YAL-L41,Huawei,Honor 20 Pro,SmartPhone
+SM-J510H,Samsung,GALAXY J5 2,SmartPhone
+KSA-LX9,Huawei,Honor 8S,SmartPhone
+SM-A720F,Samsung,Galaxy A7,SmartPhone
+SM-J600G,Samsung,Galaxy J6,SmartPhone
+P7072G,G-Tab,P7072G,Tablet
+Redmi Note 9 Pro,Xiaomi,Redmi Note 9 Pro,SmartPhone
+SM-A705FN,Samsung,Galaxy A70,SmartPhone
+M250,LG,K10,SmartPhone
+Redmi Note 7,Xiaomi,Redmi Note 7,SmartPhone
+Moto G Play (6th Gen.),Motorola,Moto G Play (6th Gen.),SmartPhone
+Generic Android,Unknown,Generic Android,SmartPhone

@@ -1,0 +1,27 @@
+<VAST version="2.0">
+    <Ad>
+        <InLine>
+            <AdSystem>Ivan</AdSystem>
+            <Impression>
+                <URL><![CDATA[127.0.0.1:2999]]></URL>
+            </Impression>
+            <Creatives>
+                <Creative>
+                    <Linear skipoffset="00:00:05">
+                        <VideoClicks>
+                            <ClickThrough><![CDATA[http://poker-iv.herokuapp.com/]]></ClickThrough>
+                        </VideoClicks>
+                        <MediaFiles>
+                            <MediaFile delivery="progressive" type="video/mp4">
+                                <![CDATA[pexels.mp4]]>
+                            </MediaFile>
+                        </MediaFiles>
+                    </Linear>
+                </Creative>
+            </Creatives>
+            <Extensions>
+                <Extension type="linkTxt"><![CDATA[127.0.0.1:2999]]></Extension>
+            </Extensions>
+        </InLine>
+    </Ad>
+</VAST>

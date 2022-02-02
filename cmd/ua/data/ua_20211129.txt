@@ -1,0 +1,102 @@
++ Autoplius.lt/5.0.5 Mozilla/5.0 (Linux; Android 11; SM-G977N Build/RP1A.200720.012) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/95.0.4638.50 Mobile Safari/537.36 EmbeddedBrowser DeviceUID: 48b5742d-c265-4632-91f3-25f9f512313d   - ok!
++ Autoplius.lt/5.0.5 Mozilla/5.0 (Linux; Android 11; SM-G977N Build/RP1A.200720.012) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/95.0.4638.74 Mobile Safari/537.36 EmbeddedBrowser DeviceUID: aa26e51c-7e9a-4e4f-a9ea-01cfb92aac06   - ok!
++ Mozilla/5.0 (Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36
++ Mozilla/5.0 (Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.81 Safari/537.36
++ Mozilla/5.0 (Linux: Android 11: SM-G986U) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Mobile Safari/537.36 - Chrome Mobile,87.0.4280,Android,11,1,0,0,Samsung,Galaxy S21,0,1 - ok!
++ Mozilla/5.0 (Linux: Android 11: SM-G986U) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.61 Mobile Safari/537.36 - ok!
++ это ошибка - Mozilla/5.0 (Linux; Andr0id 9; BRAVIA 4K UR3 Build/PTT1.190515.001.S104) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36 OPR/46.0.2207.0 OMI/4.13.5.431.DIA5HBBTV.250 Model/Sony-BRAVIA-4K-UR3
++ Mozilla/5.0 (Linux; Tizen 2.4; SAMSUNG SM-Z200F) AppleWebKit/537.3 (KHTML, like Gecko) SamsungBrowser/1.1 Mobile Safari/537.3
++ Mozilla/5.0 (Macintosh: Intel Mac OS X 10_13_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.2 Safari/605.1.15
++ Mozilla/5.0 (Macintosh: Intel Mac OS X 10_13_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.1.1 Safari/605.1.15
++ Mozilla/5.0 (Macintosh: Intel Mac OS X 10_13_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.1.2 Safari/605.1.15
++ Mozilla/5.0 (Macintosh: Intel Mac OS X 10_13_6) AppleWebKit/605.1.15 (KHTML: like Gecko) Version/13.1.2 Safari/605.1.15
++ Mozilla/5.0 (Macintosh: Intel Mac OS X 10_14_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0 Safari/605.1.15
++ Mozilla/5.0 (Macintosh: Intel Mac OS X 10_14_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.1 Safari/605.1.15
++ Mozilla/5.0 (Macintosh: Intel Mac OS X 10_14_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.2 Safari/605.1.15
++ Mozilla/5.0 (Macintosh: Intel Mac OS X 10_14_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Safari/605.1.15
++ Mozilla/5.0 (Macintosh: Intel Mac OS X 10_14_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.4 Safari/605.1.15
++ Mozilla/5.0 (Macintosh: Intel Mac OS X 10_14_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.5 Safari/605.1.15
++ Mozilla/5.0 (Macintosh: Intel Mac OS X 10_14_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.1 Safari/605.1.15
++ Mozilla/5.0 (Macintosh: Intel Mac OS X 10_14_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.1.1 Safari/605.1.15
++ Mozilla/5.0 (Macintosh: Intel Mac OS X 10_14_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.1.2 Safari/605.1.15
++ Mozilla/5.0 (Macintosh: Intel Mac OS X 10_14_6) AppleWebKit/605.1.15 (KHTML: like Gecko) Version/13.0.1 Safari/605.1.15
++ Mozilla/5.0 (Macintosh: Intel Mac OS X 10_14_6) AppleWebKit/605.1.15 (KHTML: like Gecko) Version/13.0.3 Safari/605.1.15
++ Mozilla/5.0 (Macintosh: Intel Mac OS X 10_14_6) AppleWebKit/605.1.15 (KHTML: like Gecko) Version/13.0.4 Safari/605.1.15
++ Mozilla/5.0 (Macintosh: Intel Mac OS X 10_14_6) AppleWebKit/605.1.15 (KHTML: like Gecko) Version/13.0.5 Safari/605.1.15
++ Mozilla/5.0 (Macintosh: Intel Mac OS X 10_15) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.2 Safari/605.1.15
++ Mozilla/5.0 (Macintosh: Intel Mac OS X 10_15) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.5 Safari/605.1.15
++ Mozilla/5.0 (Macintosh: Intel Mac OS X 10_15) AppleWebKit/605.1.15 (KHTML: like Gecko) Version/13.0.2 Safari/605.1.15
++ Mozilla/5.0 (Macintosh: Intel Mac OS X 10_15) AppleWebKit/605.1.15 (KHTML: like Gecko) Version/13.0.5 Safari/605.1.15
++ Mozilla/5.0 (Macintosh: Intel Mac OS X 10_15_1) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Safari/605.1.15
++ Mozilla/5.0 (Macintosh: Intel Mac OS X 10_15_1) AppleWebKit/605.1.15 (KHTML: like Gecko) Version/13.0.3 Safari/605.1.15
++ Mozilla/5.0 (Macintosh: Intel Mac OS X 10_15_2) AppleWebKit/605.1.15 (KHTML: like Gecko) Version/13.0.4 Safari/605.1.15
++ Mozilla/5.0 (Macintosh: Intel Mac OS X 10_15_3) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.5 Safari/605.1.15
++ Mozilla/5.0 (Macintosh: Intel Mac OS X 10_15_3) AppleWebKit/605.1.15 (KHTML: like Gecko) Version/13.0.5 Safari/605.1.15
++ Mozilla/5.0 (Macintosh: Intel Mac OS X 10_15_4) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.1 Safari/605.1.15
++ Mozilla/5.0 (Macintosh: Intel Mac OS X 10_15_4) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.1.2 Safari/605.1.15
++ Mozilla/5.0 (Macintosh: Intel Mac OS X 10_15_4) AppleWebKit/605.1.15 (KHTML: like Gecko) Version/13.1 Safari/605.1.15
++ Mozilla/5.0 (Macintosh: Intel Mac OS X 10_15_5) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.1.1 Safari/605.1.15
++ Mozilla/5.0 (Macintosh: Intel Mac OS X 10_15_5) AppleWebKit/605.1.15 (KHTML: like Gecko) Version/13.1.1 Safari/605.1.15
++ Mozilla/5.0 (Macintosh: Intel Mac OS X 10_15_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.1.2 Safari/605.1.15
++ Mozilla/5.0 (Macintosh: Intel Mac OS X 10_15_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Safari/605.1.15
++ Mozilla/5.0 (Macintosh: Intel Mac OS X 10_15_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.2 Safari/605.1.15
++ Mozilla/5.0 (Macintosh: Intel Mac OS X 10_15_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.3 Safari/605.1.15
++ Mozilla/5.0 (Macintosh: Intel Mac OS X 10_15_6) AppleWebKit/605.1.15 (KHTML: like Gecko) Version/13.1.2 Safari/605.1.15
++ Mozilla/5.0 (Macintosh: Intel Mac OS X 10_15_6) AppleWebKit/605.1.15 (KHTML: like Gecko) Version/14.0.2 Safari/605.1.15
++ Mozilla/5.0 (Macintosh: Intel Mac OS X 10_15_6) AppleWebKit/605.1.15 (KHTML: like Gecko) Version/14.0.3 Safari/605.1.15
++ Mozilla/5.0 (Macintosh: Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Safari/605.1.15
++ Mozilla/5.0 (Macintosh: Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Safari/605.1.15
++ Mozilla/5.0 (Macintosh: Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.3 Safari/605.1.15
++ Mozilla/5.0 (Macintosh: Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.1 Safari/605.1.15
++ Mozilla/5.0 (Macintosh: Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.1.1 Safari/605.1.15
++ Mozilla/5.0 (Macintosh: Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.1.2 Safari/605.1.15
++ Mozilla/5.0 (Macintosh: Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.0 Safari/605.1.15
++ Mozilla/5.0 (Macintosh: Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.1 Safari/605.1.15
++ Mozilla/5.0 (Macintosh: Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML: like Gecko) Version/14.0 Safari/605.1.15
++ Mozilla/5.0 (Macintosh: Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML: like Gecko) Version/14.0.3 Safari/605.1.15
++ Mozilla/5.0 (Macintosh: Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML: like Gecko) Version/14.1 Safari/605.1.15
++ Mozilla/5.0 (Macintosh: Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML: like Gecko) Version/14.1.1 Safari/605.1.15
++ Mozilla/5.0 (Macintosh: Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML: like Gecko) Version/14.1.2 Safari/605.1.15
++ Mozilla/5.0 (Macintosh: Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML: like Gecko) Version/15.0 Safari/605.1.15
++ Mozilla/5.0 (PlayStation 4 2.57) AppleWebKit/537.73 (KHTML, like Gecko)
++ Mozilla/5.0 (Unknown; Linux i686) AppleWebKit/534.34 (KHTML, like Gecko) Chrome/20.0.1132.57 Safari/534.34
++ Mozilla/5.0 (Unknown; Linux x86_64) AppleWebKit/538.1 (KHTML, like Gecko) PhantomJS/2.0.0 Safari/538.1
++ Mozilla/5.0 (Unknown; Linux x86_64) AppleWebKit/538.1 (KHTML, like Gecko) PhantomJS/2.0.1-development Safari/538.1
++ Mozilla/5.0 (Unknown; Linux) AppleWebKit/538.1 (KHTML, like Gecko) Chrome/v1.0.0 Safari/538.1
++ Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/538.1 (KHTML, like Gecko) PhantomJS/2.0.0 Safari/538.1
++ Mozilla/5.0 (Windows NT 6.1; WOW64; rv:38.0) Gecko/20100101 Thunderbird/38.5.0 Lightning/4.0.5.2
++ Mozilla/5.0 (iPhone: CPU iPhone OS 13_1_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.1 Mobile/15E148 Safari/604.1
++ Mozilla/5.0 (iPhone: CPU iPhone OS 13_1_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML: like Gecko) Version/13.0.1 Mobile/15E148 Safari/604.1
++ Mozilla/5.0 (iPhone: CPU iPhone OS 13_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.4 Mobile/15E148 Safari/604.1
++ Mozilla/5.0 (iPhone: CPU iPhone OS 13_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML: like Gecko) Version/13.0.4 Mobile/15E148 Safari/604.1
++ Mozilla/5.0 (iPhone: CPU iPhone OS 13_3_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.5 Mobile/15E148 Safari/604.1
++ Mozilla/5.0 (iPhone: CPU iPhone OS 13_3_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML: like Gecko) Version/13.0.5 Mobile/15E148 Safari/604.1
++ Mozilla/5.0 (iPhone: CPU iPhone OS 13_4_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.1 Mobile/15E148 Safari/604.1
++ Mozilla/5.0 (iPhone: CPU iPhone OS 13_4_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML: like Gecko) Version/13.1 Mobile/15E148 Safari/604.1
++ Mozilla/5.0 (iPhone: CPU iPhone OS 13_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.1.1 Mobile/15E148 Safari/604.1
++ Mozilla/5.0 (iPhone: CPU iPhone OS 13_6_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.1.2 Mobile/15E148 Safari/604.1
++ Mozilla/5.0 (iPhone: CPU iPhone OS 13_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.1.2 Mobile/15E148 Safari/604.1
++ Mozilla/5.0 (iPhone: CPU iPhone OS 13_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML: like Gecko) Version/13.1.2 Mobile/15E148 Safari/604.1
++ Mozilla/5.0 (iPhone: CPU iPhone OS 14_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/604.1
++ Mozilla/5.0 (iPhone: CPU iPhone OS 14_4 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.3 Mobile/15E148 Safari/604.1
++ Mozilla/5.0 (iPhone: CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.3 Mobile/15E148 Safari/604.1
++ Mozilla/5.0 (iPhone: CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML: like Gecko) Version/14.0.3 Mobile/15E148 Safari/604.1
++ Mozilla/5.0 (iPhone: CPU iPhone OS 14_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.1.1 Mobile/15E148 Safari/604.1
++ Mozilla/5.0 (iPhone: CPU iPhone OS 14_7_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.1.2 Mobile/15E148 Safari/604.1
++ Mozilla/5.0 (iPhone: CPU iPhone OS 14_7_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML: like Gecko) Version/14.1.2 Mobile/15E148 Safari/604.1
++ Mozilla/5.0 (compatible; bingbot/2.0; +http://www.bing.com/bingbot.htm) - bingbot
++ Mozilla/5.0(Windows NT 6.3; Win64; x64; rv:84.0) Gecko/20100101 Firefox/84.0
++ Mozilla/5.0 (Windows 11; Win64; x64; rv:86.0) Gecko/20100101 Firefox/86.0
++ Mozilla/5.0(X11;U;Linux x86_64;en-us)AppleWebKit/537.36(KHTML,like Gecko)Chrome/94.0.4606.81Safari/537.36
++ Opera/9.63 (X11; FreeBSD 7.1-RELEASE i386; U; en) Presto/2.1.1
++ Safari: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0 Safari/605.1.15
++ TBDC1093 Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/534.24 (KHTML, like Gecko) Chrome/11.0.696.34 Safari/534.24 - isTablet
++ facebookexternalhit/1.1 (+http://www.facebook.com/externalhit_uatext.php)
++ Mozilla/5.0 (en-us) AppleWebKit/534.14 (KHTML, like Gecko; Google Wireless Transcoder) Chrome/9.0.597 Safari/534.14
++ Mozilla/5\\.0 \\(Windows NT 10\\.0; Win64; x64; rv\\:87\\.0\\) Gecko/20100101 XmSxM95M\\-27 XmSxM95M\\-27 Firefox/87\\.0
+
+Mozilla/5.0 (compatible, Firefox 37.0a, Windows NT 10.0; Trident/8.0;  rv:12.0) AppleWebKit/537.75 (KHTML, Gecko/20100101) Firefox/37.0 Safari/537.75 - Internet Explorer 11.0 Windows 10
+Mozilla/5.0 (Linux; diordnA 10; TECNO KE5 Build/QP1A.190711.020; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/80.0.3987.99 eliboM Safari/537.36
+
+Xiaomi_MBT6A5_TD-LTE/V1 Linux/3.18.22+ Android/6.0 Release/3.3.2017 Browser/AppleWebKit537.36 Mobile Safari/537.36 System/Android 6.0 XiaoMi/MiuiBrowser/2.4.9
+Xumo/1.1 (Linux;Android 5.1.1) AmznExoPlayerLib/2.9.0

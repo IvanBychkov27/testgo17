@@ -1,0 +1,301 @@
+<!--http://banners.adfox.ru/200417/adfox/1301706/5079bf9ec571c2c671a8b632140f2415_vast_checker_win1251.html-->
+
+
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="UTF-8">
+    <script src="https://yastatic.net/pcode/adfox/loader.js" crossorigin="anonymous"></script>
+    <title></title>
+    <script type="text/javascript" charset="utf-8" src="https://yastatic.net/awaps-ad-sdk-js/1_0/adsdk.js"></script>
+    <style type="text/css">
+        *:focus {
+            outline: none;
+        }
+        h1 {
+            font-family: 'William', serif;
+        }
+        #video {
+            width: 640px;
+            height: 480px;
+        }
+
+        #videoParent {
+            width: 640px;
+            height: 480px;
+        }
+
+        .border {
+            border: 2px solid #dddddd;
+        }
+
+        #errors {
+            width: 300px;
+            min-height: 480px;
+            margin-left: 10px;
+            word-wrap: break-word;
+        }
+
+        #errors>textarea {
+            width: 100%;
+            height: 100%;
+        }
+
+        button {
+            font-family: 'YS Text', Arial, Helvetica, sans-serif;
+            font-feature-settings: 'liga', 'kern';
+            box-sizing: border-box;
+            font-size: 16px;
+            display: inline-block;
+            width: 205px;
+            padding: 5px;
+            box-shadow: none;
+            border-radius: 0;
+            border: 2px solid #dddddd;
+            cursor: pointer;
+            /*background: #FEDC6A;*/
+            /*border: 2px solid #FEDC6A;*/
+        }
+
+        #inputs {
+            padding: 10px;
+        }
+
+        #testButton {
+            display: block;
+            margin: 10px;
+            margin-top: 10px;
+        }
+
+        #testvast:focus {
+            border: 2px solid #ffdb4d;
+            box-shadow: inset 0 0 0 1px #ffdb4d;
+        }
+
+        #testvast {
+            width: 500px;
+            height: 25px;
+            border: 2px solid rgb(221, 221, 221);
+            font-size: 15px;
+        }
+
+        .errorError {
+            color: red;
+        }
+
+        .errorEvent {
+            color: green;
+        }
+
+        .column {
+            float: left;
+        }
+
+        .row:after {
+            content: "";
+            display: table;
+            clear: both;
+        }
+
+        @media screen and (max-width: 978px) {
+            .column {
+                float: none;
+            }
+
+            #errors {
+                width: 640px;
+                min-height: 300px;
+                margin-top: 20px;
+                margin-left: 0px;
+            }
+        }
+
+        @media screen and (max-width: 659px) {
+            .column {
+                float: none;
+            }
+
+            #errors {
+                width: 98vw;
+                min-height: 300px;
+                margin-top: 20px;
+                margin-left: 0px;
+            }
+        }
+    </style>
+</head>
+
+<body>
+<div>
+    <h1>VAST Tag/Code tester</h1>
+    <div id="inputType">
+        <input type="radio" id="vast_tag" value="email" name="type" checked>
+        <label for="vast_tag">VAST Tag</label>
+        <input type="radio" id="vast_code" value="phone" name="type">
+        <label for="vast_code">VAST Code</label>
+        <input type="radio" id="adsdk_overlay_tag" value="mail" name="type">
+        <label for="adsdk_overlay_tag">ADSDK Overlay Tag</label>
+        <input type="radio" id="adsdk_overlay_code" value="mail" name="type">
+        <label for="adsdk_overlay_code">ADSDK Overlay Code</label>
+    </div>
+    <div id="inputs">
+        <textarea id="testvast" placeholder="Ссылка на VAST XML"></textarea>
+        <button onclick="play();" id="testButton">TEST</button>
+    </div>
+</div>
+<div class="row">
+    <div id="videoParent" class="column">
+        <video id="video" class="border" controls="controls">
+            <source type="video/mp4" src="https://banners.adfox.ru/200320/adfox/1262905/y2mate.com-CHANEL20162017CruiseAdCampaign_b7rtq8ZR2o0_360p.mp4">
+        </video>
+    </div>
+    <div id="errors" class="border column" contenteditable="true">
+        <!-- <textarea class="border"></textarea> -->
+    </div>
+</div>
+<script type="text/javascript">
+    document.querySelector("#vast_tag").addEventListener("click", function(){
+        var elem = document.querySelector("#testvast");
+        elem.placeholder = "Ссылка на VAST XML";
+        elem.style.width = "625px";
+        elem.style.height = "27px";
+    });
+    document.querySelector("#vast_code").addEventListener("click", function(){
+        var elem = document.querySelector("#testvast");
+        elem.placeholder = "<VAST>...</VAST>";
+        elem.style.width = "625px";
+        elem.style.height = "280px";
+    });
+    document.querySelector("#adsdk_overlay_tag").addEventListener("click", function(){
+        var elem = document.querySelector("#testvast");
+        elem.placeholder = "Ссылка на Yandex Overlay";
+        elem.style.width = "625px";
+        elem.style.height = "27px";
+    });
+    document.querySelector("#adsdk_overlay_code").addEventListener("click", function(){
+        var elem = document.querySelector("#testvast");
+        elem.placeholder = "VAST код Yandex Overlay";
+        elem.style.width = "625px";
+        elem.style.height = "280px";
+    });
+</script>
+<script>
+    var AdConfig;
+
+    function play() {
+        var input = document.querySelector('#testvast').value.trim();
+        if (document.querySelector('#inputType > #vast_tag').checked) {
+            AdConfig = {
+                partnerId: 247921,
+                category: 0,
+                videoTimeout: 10000,
+                vastUrl: input
+            };
+        } else if (document.querySelector('#inputType > #vast_code').checked) {
+            AdConfig = {
+                partnerId: 247921,
+                category: 0,
+                videoTimeout: 10000,
+                vast: input,
+            };
+        } else if (document.querySelector('#inputType > #adsdk_overlay_tag').checked) {
+            AdConfig = {
+                partnerId: 247921,
+                category: 0,
+                videoTimeout: 10000,
+                vastUrl: input,
+                adBreakType: 'overlay'
+            };
+        } else if (document.querySelector('#inputType > #adsdk_overlay_code').checked) {
+            AdConfig = {
+                partnerId: 247921,
+                category: 0,
+                videoTimeout: 10000,
+                vast: input,
+                adBreakType: 'overlay'
+            };
+        }
+
+        ya.videoAd
+            .loadModule('AdLoader')
+            // 1)  Создаем экземпляр AdLoader с рекламными параметрами
+            .then(function(module) {
+                return module.AdLoader.create(AdConfig, );
+            })
+            // 2) Загружаем рекламу
+            .then(function(adLoader) {
+                return adLoader.loadAd();
+            })
+            // 3) Предзагружаем рекламу
+            // Этот пункт пропускается, если рекламу необходимо запустить сразу
+            // .then(function(adViewer) {
+            //     // Запускаем предзагрузку
+            //     adViewer.preload({
+            //         videoSlot: document.querySelector('#video'),
+            //         desiredBitrate: 1000,
+            //     });
+
+            //     return new Promise((resolve) => {
+            //         // Ждем момента, когда можно будет запустить рекламу
+            //         resolve(adViewer);
+            //     });
+            // })
+            // 4) Запускаем рекламу
+            .then(function(adViewer) {
+                // Создаем контроллер воспроизведения
+                const adPlaybackController = adViewer.createPlaybackController(document.querySelector('#video'), document.querySelector('#videoParent'));
+                // Подписываемся на событие окончания рекламы
+
+                adPlaybackController.subscribe('AdStarted', function() {
+                    document.querySelector('#errors').innerHTML += "<div><span class='errorEvent'>Event: </span>Ролик начал проигрываться</div>";
+                });
+
+                adPlaybackController.subscribe('AdPodVideoFirstQuartile', function() {
+                    document.querySelector('#errors').innerHTML += "<div><span class='errorEvent'>Event: </span>25% проиграно</div>";
+                });
+
+                adPlaybackController.subscribe('AdPodVideoMidpoint', function() {
+                    document.querySelector('#errors').innerHTML += "<div><span class='errorEvent'>Event: </span>50% проиграно</div>";
+                });
+
+                adPlaybackController.subscribe('AdPodVideoThirdQuartile', function() {
+                    document.querySelector('#errors').innerHTML += "<div><span class='errorEvent'>Event: </span>75% проиграно</div>";
+                });
+
+                adPlaybackController.subscribe('AdStopped', function() {
+                    document.querySelector('#errors').innerHTML += "<div><span class='errorEvent'>Event: </span>Реклама проигралась</div>";
+                    document.querySelector('#video').play();
+                    document.querySelector('#errors').innerHTML += "<div><span class='errorEvent'>Event: </span>Началось воспроизведение демонстрационного ролика</div>";
+                });
+
+                adPlaybackController.subscribe('AdPodImpression', function() {
+                    document.querySelector('#errors').innerHTML += "<div><span class='errorEvent'>Event: </span>Impression</div>";
+                });
+
+                adPlaybackController.subscribe('AdVolumeChange', function() {
+                    document.querySelector('#errors').innerHTML += "<div><span class='errorEvent'>Event: </span>Изменение громкости рекламы</div>";
+                });
+
+                adPlaybackController.subscribe('AdPodSkipped', function() {
+                    document.querySelector('#errors').innerHTML += "<div><span class='errorEvent'>Event: </span>Пропуск рекламы</div>";
+                });
+                // Запускаем проигрывание рекламы
+                adPlaybackController.playAd();
+            })
+            // Если что-то пошло не так, логируем ошибку в консоль
+            .catch(function(error) {
+                document.querySelector('#errors').innerHTML += "<div><span class='errorError'>Error: </span>" + error.code + "</div>";
+                console.error(error);
+
+            });
+        // document.querySelector('#video').play();
+    }
+
+    function pause() {
+        document.querySelector('#video').pause();
+    }
+</script>
+</body>
+
+</html>
