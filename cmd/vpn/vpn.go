@@ -44,11 +44,11 @@ func main() {
 func autoPing(data []*dataIP) {
 	rand.Seed(time.Now().UnixNano())
 
-	interval := 30
+	interval := 10
 
 	res := fmt.Sprintf("start auto ping interval [%d sec] \n", interval)
 	log.Print(res)
-	defer log.Println("Done...")
+	defer log.Println("done")
 
 	ctx, cancel := signal.NotifyContext(context.Background(), syscall.SIGTERM, syscall.SIGINT)
 	defer cancel()
@@ -56,19 +56,25 @@ func autoPing(data []*dataIP) {
 	ticker := time.NewTicker(time.Second * time.Duration(interval))
 	defer ticker.Stop()
 
+	n := len(data)
 	code := make(map[int]int)
 	for {
-		s, key := pingIP(data)
-		code[key]++
-		log.Print(s)
+		i := rand.Intn(n)
+		ip := data[i].IP
+		flag := data[i].Flag
+
+		s, keyCode := pingIP(ip, flag)
+
+		code[keyCode]++
 		res += s
+		log.Print(s)
 
 		select {
 		case <-ticker.C:
 		case <-ctx.Done():
 			s = ""
 			for key, val := range code {
-				s += fmt.Sprintf("Code: %d = %d \n", key, val)
+				s += fmt.Sprintf("Code: %d = %3d \n", key, val)
 			}
 			res += s
 			date := time.Now().Format("20060102_150405")
@@ -79,17 +85,12 @@ func autoPing(data []*dataIP) {
 	}
 }
 
-func pingIP(data []*dataIP) (string, int) {
+func pingIP(ip, flag string) (string, int) {
 	user := "ysETCpBC8JvFzJnt7SjsJxJC"
 	password := "qRhXR6k8yW4pcW71c34ReDW3"
 
 	protocol := "https"
 	port := "89"
-
-	n := len(data)
-	i := rand.Intn(n)
-	ip := data[i].IP
-	flag := data[i].Flag
 
 	addrNordVPN := fmt.Sprintf("%s://%s:%s@%s:%s", protocol, user, password, ip, port)
 
