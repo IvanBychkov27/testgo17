@@ -8,7 +8,7 @@ import (
 )
 
 func main() {
-	address := ":4000"
+	address := ":3000"
 	log.Println("start server", address)
 
 	ln, err := net.Listen("tcp", address)
@@ -26,23 +26,30 @@ func main() {
 	}
 	log.Printf("done")
 }
-func handler(rw http.ResponseWriter, req *http.Request) {
-	//log.Printf("%s %s [%s]", req.Method, req.RequestURI, req.RemoteAddr)
-	log.Printf("%s %s [%s]", req.Method, req.RequestURI, req.Header["X-Forwarded-For"][0])
 
-	d := `<!doctype html>
+func handler(rw http.ResponseWriter, req *http.Request) {
+	page := `<!doctype html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport"
           content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <title>Server 4000</title>
+    <title>Document3000</title>
 </head>
 <body>
-   Server :4000
+
+   Redirect in poker-iv
+
+    <script>
+        setTimeout (function(){
+            document.location.href = "http://poker-iv.herokuapp.com/"
+        }, 3000)
+    </script>
 </body>
 </html>
 `
-	rw.Write([]byte(d))
+
+	rw.Write([]byte(page))
+
 }

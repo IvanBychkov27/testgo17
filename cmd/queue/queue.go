@@ -19,8 +19,25 @@ type Queue struct {
 }
 
 func main() {
-	//sendMessage("message body iv test 3")
-	receiveMessage()
+
+	sendMessages() // отправить сообщения в очередь
+
+	//del := true // удалить
+	//del := false        // не удалять
+	//receiveMessage(del) // если истина, то прочитанное сообщение будет удалено из очереди
+}
+
+// послать сообщения
+func sendMessages() {
+	msgs := []string{
+		//`{"1":"http://4000.99.adscompass.ru","2": ["DK", "CA"]}`,
+		//`{"1":"http://4000.99.adscompass.ru","2": ["CA"]}`,
+		//`{"1":"http://4000.99.adscompass.ru","2": ["CA","PL"]}`,
+		`{"1":"http://4000.99.adscompass.ru","2": ["DK"]}`,
+	}
+	for _, msg := range msgs {
+		sendMessage(msg)
+	}
 }
 
 // послать сообщение
@@ -56,11 +73,11 @@ func sendMessage(msg string) {
 		return
 	}
 
-	log.Println("сообщение в очередь отправлено...")
+	log.Println("сообщение отправлено в очередь")
 }
 
 // получить сообщение
-func receiveMessage() {
+func receiveMessage(del bool) {
 	q := Queue{
 		Key:      "adIPS2V8TcN8W3EierJW",
 		Secret:   "f_F21HW-adAsYoAxAhecxHMdViLU2xjC4_DOKHoH",
@@ -81,9 +98,10 @@ func receiveMessage() {
 	queue := sqs.New(sess)
 
 	input := &sqs.ReceiveMessageInput{
-		QueueUrl:          aws.String(q.URL),
-		VisibilityTimeout: aws.Int64(1),
-		WaitTimeSeconds:   aws.Int64(1),
+		QueueUrl:            aws.String(q.URL),
+		MaxNumberOfMessages: aws.Int64(1), // кол-во возвращаемых сообщений от 1 до 10
+		VisibilityTimeout:   aws.Int64(1), // время (в сек) блокировки сообщения - в течение этого времени это сообщение будет не доступно другим клиентам
+		WaitTimeSeconds:     aws.Int64(1), // время (в сек) ожидания сообщений, если в течение этого времени сообщения нет, то отдает пустое сообщение
 	}
 	res, err := queue.ReceiveMessage(input)
 	if err != nil {
@@ -96,15 +114,19 @@ func receiveMessage() {
 		log.Println("message nil")
 		return
 	}
-	log.Println("message:", out)
+	//log.Println("message:", out)
 
-	for _, m := range res.Messages {
-		log.Println("message body:", *m.Body)
-		delMessage(queue, q.URL, *m.ReceiptHandle)
+	log.Println("читаем из очереди...")
+	for i, m := range res.Messages {
+		log.Printf("сообщение №%d: %s \n", i+1, *m.Body)
+		if del {
+			delMessage(queue, q.URL, *m.ReceiptHandle)
+		}
 	}
 
 }
 
+// удаляет сообщение из очереди
 func delMessage(queue *sqs.SQS, queueUrl string, receiptHandle string) {
 	input := &sqs.DeleteMessageInput{
 		QueueUrl:      aws.String(queueUrl),
@@ -117,5 +139,5 @@ func delMessage(queue *sqs.SQS, queueUrl string, receiptHandle string) {
 		return
 	}
 
-	log.Println("del msg:", receiptHandle)
+	log.Println("сообщение удалено из очереди")
 }

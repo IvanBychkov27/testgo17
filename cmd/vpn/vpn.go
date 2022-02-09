@@ -28,6 +28,8 @@ type dataIP struct {
 	Flag string
 }
 
+// перед запуском нужно запустить сервер из папки server
+// cmd/vpn/server/ go run server.go
 func main() {
 	//serverNordVPN()
 
@@ -108,17 +110,18 @@ func pingIP(ip, flag string) (string, int) {
 		Transport: transport,
 		Timeout:   time.Second * 10,
 	}
+	//defer client.CloseIdleConnections()
 
 	urlData := "http://4000.99.adscompass.ru/" + flag
 
 	request, err := http.NewRequest("GET", urlData, nil)
 	if err != nil {
-		return fmt.Sprintf("[%s] %16s -> error: %s \n", flag, ip, err.Error()), 0
+		return fmt.Sprintf("[%s] %16s -> error request: %s \n", flag, ip, err.Error()), 0
 	}
 
 	resp, err := client.Do(request)
 	if err != nil {
-		return fmt.Sprintf("[%s] %16s -> error: %s \n", flag, ip, err.Error()), 0
+		return fmt.Sprintf("[%s] %16s -> error resp: %s \n", flag, ip, err.Error()), 0
 	}
 
 	return fmt.Sprintf("[%s] %16s -> code: %d \n", flag, ip, resp.StatusCode), resp.StatusCode
