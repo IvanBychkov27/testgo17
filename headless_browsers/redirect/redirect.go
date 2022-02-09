@@ -6,8 +6,6 @@ import (
 	"os"
 	"time"
 
-	"github.com/chromedp/cdproto/cdp"
-	"github.com/chromedp/cdproto/dom"
 	"github.com/chromedp/cdproto/runtime"
 	"github.com/chromedp/chromedp"
 )
@@ -17,7 +15,8 @@ func main() {
 	timeOut := time.Second * 5
 
 	//url := "http://4000.99.adscompass.ru"
-	url := "http://3000.99.adscompass.ru"
+	//url := "http://3000.99.adscompass.ru"
+	url := "http://eth0.me"
 
 	for {
 		redURL, errCheckRedirect := checkRedirect(url, timeOut)
@@ -43,6 +42,7 @@ func main() {
 
 	log.Println("title:", title)
 	log.Println("len body:", len(body))
+	log.Println("body:", body)
 
 	log.Println("done")
 }
@@ -77,19 +77,12 @@ func getData(url string) (title, body string, err error) {
 	ctx, cancel := chromedp.NewContext(context.Background())
 	defer cancel()
 
-	var ids []cdp.NodeID
-
 	err = chromedp.Run(
 		ctx,
 		chromedp.Navigate(url),
 		chromedp.Title(&title),
-		chromedp.NodeIDs(`document`, &ids, chromedp.ByJSPath),
-		chromedp.ActionFunc(func(ctx context.Context) error {
-			var errActionFunc error
-			body, errActionFunc = dom.GetOuterHTML().WithNodeID(ids[0]).Do(ctx)
-			return errActionFunc
-		}),
+		chromedp.OuterHTML("body", &body),
+		//chromedp.OuterHTML("html", &html),
 	)
-
 	return
 }

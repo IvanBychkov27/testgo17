@@ -17,16 +17,17 @@ import (
 	"time"
 )
 
+// Различные примеры использования пакета chromedp
 func main() {
 	log.Println("start...")
 	//ExampleTitle_Redirect()
 	//ExampleChromeEDP_StatusCode()
 
 	//ExampleChromeEDP()
-	//ExampleChromedp_Proxy()
+	ExampleChromedp_Proxy()
 
 	//getBody()
-	listenTarget()
+	//listenTarget()
 }
 
 func listenTarget() {
@@ -89,7 +90,7 @@ func getBody() {
 
 func ExampleChromedp_Proxy() {
 	o := append(chromedp.DefaultExecAllocatorOptions[:],
-		chromedp.ProxyServer("--proxy-server=https://ysETCpBC8JvFzJnt7SjsJxJC:qRhXR6k8yW4pcW71c34ReDW3@172.83.40.219:89"),
+		chromedp.ProxyServer("https://ysETCpBC8JvFzJnt7SjsJxJC:qRhXR6k8yW4pcW71c34ReDW3@172.83.40.219:89"),
 	)
 	cx, cancel := chromedp.NewExecAllocator(context.Background(), o...)
 	defer cancel()
@@ -97,22 +98,30 @@ func ExampleChromedp_Proxy() {
 	ctx, cancel := chromedp.NewContext(cx)
 	defer cancel()
 
-	url := "http://4000.99.adscompass.ru"
-	//url := "http://eth0.me"
+	//url := "http://4000.99.adscompass.ru"
+	url := "http://eth0.me"
 
 	var title string
+	var ids []cdp.NodeID
+	var body string
 
 	err := chromedp.Run(
 		ctx,
 		chromedp.Navigate(url),
 		chromedp.Title(&title),
+		chromedp.NodeIDs(`document`, &ids, chromedp.ByJSPath),
+		chromedp.ActionFunc(func(ctx context.Context) error {
+			var err error
+			body, err = dom.GetOuterHTML().WithNodeID(ids[0]).Do(ctx)
+			return err
+		}),
 	)
-
 	if err != nil {
 		log.Println("error:", err.Error())
 	}
 
 	log.Println("title:", title)
+	log.Println("body :", body)
 }
 
 func ExampleChromeEDP_StatusCode() {
