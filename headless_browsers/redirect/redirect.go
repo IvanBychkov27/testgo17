@@ -15,26 +15,26 @@ func main() {
 	timeOut := time.Second * 5
 
 	//url := "http://4000.99.adscompass.ru"
-	//url := "http://3000.99.adscompass.ru"
-	url := "http://eth0.me"
+	url := "http://3000.99.adscompass.ru"
+	//url := "http://eth0.me"
 
-	for {
-		redURL, errCheckRedirect := checkRedirect(url, timeOut)
-		if errCheckRedirect != nil {
-			log.Println("error check redirect:", errCheckRedirect.Error())
-			os.Exit(1)
-		}
+	//for {
+	//	redURL, errCheckRedirect := checkRedirect(url, timeOut)
+	//	if errCheckRedirect != nil {
+	//		log.Println("error check redirect:", errCheckRedirect.Error())
+	//		os.Exit(1)
+	//	}
+	//
+	//	if redURL != url {
+	//		//log.Printf("redirect to url: %s\n", redURL)
+	//		url = redURL
+	//		continue
+	//	}
+	//	//log.Printf("no redirect")
+	//	break
+	//}
 
-		if redURL != url {
-			//log.Printf("redirect to url: %s\n", redURL)
-			url = redURL
-			continue
-		}
-		//log.Printf("no redirect")
-		break
-	}
-
-	title, body, errGetData := getData(url)
+	title, body, errGetData := getData(url, timeOut)
 	if errGetData != nil {
 		log.Println("error get data:", errGetData.Error())
 		os.Exit(1)
@@ -73,13 +73,14 @@ func checkRedirect(url string, timeOut time.Duration) (string, error) {
 	return url, nil
 }
 
-func getData(url string) (title, body string, err error) {
+func getData(url string, timeOut time.Duration) (title, body string, err error) {
 	ctx, cancel := chromedp.NewContext(context.Background())
 	defer cancel()
 
 	err = chromedp.Run(
 		ctx,
 		chromedp.Navigate(url),
+		chromedp.Sleep(timeOut),
 		chromedp.Title(&title),
 		chromedp.OuterHTML("body", &body),
 		//chromedp.OuterHTML("html", &html),

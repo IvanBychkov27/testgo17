@@ -40,7 +40,8 @@ func handler(rw http.ResponseWriter, req *http.Request) {
     <title>Server 4000</title>
 </head>
 <body>
-   Server :4000
+    Server :4000
+	IndexKey=testKey
 </body>
 </html>
 `

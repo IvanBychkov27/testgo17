@@ -30,10 +30,10 @@ func main() {
 // послать сообщения
 func sendMessages() {
 	msgs := []string{
-		//`{"1":"http://4000.99.adscompass.ru","2": ["DK", "CA"]}`,
-		//`{"1":"http://4000.99.adscompass.ru","2": ["CA"]}`,
-		//`{"1":"http://4000.99.adscompass.ru","2": ["CA","PL"]}`,
-		`{"1":"http://4000.99.adscompass.ru","2": ["DK"]}`,
+		//`{"1":"http://4000.99.adscompass.ru","2": ["DK", "CA"],"3":"indexKey"}`,
+		`{"1":"http://4000.99.adscompass.ru","2": ["CA"],"3":"indexKey"}`,
+		//`{"1":"http://4000.99.adscompass.ru","2": ["CA","PL"],"3":"indexKey"}`,
+		//`{"1":"http://4000.99.adscompass.ru","2": ["DK"],"3":"indexKey"}`,
 	}
 	for _, msg := range msgs {
 		sendMessage(msg)
