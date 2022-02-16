@@ -9,7 +9,8 @@ func main() {
 
 	//m := make(map[string]string)
 
-	res := base64.StdEncoding.EncodeToString(nil)
+	password := []byte("qwerty")
+	res := base64.StdEncoding.EncodeToString(password)
 
 	fmt.Println(res)
 }
