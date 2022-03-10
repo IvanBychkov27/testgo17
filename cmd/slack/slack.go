@@ -22,7 +22,8 @@ import (
 func main() {
 	var message string
 
-	hookUrl := "https://hooks.slack.com/services/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"
+	//hookUrl := "https://hooks.slack.com/services/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"
+	hookUrl := "https://hooks.slack.com/services/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"
 	message = "message bot iv"
 
 	playload := map[string]interface{}{

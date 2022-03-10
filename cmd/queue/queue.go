@@ -18,6 +18,18 @@ type Queue struct {
 	Region   string `env:"REGION"`
 }
 
+func queueParams() Queue {
+	return Queue{
+		Key:      "adIPS2V8TcN8W3EierJW",
+		Secret:   "f_F21HW-adAsYoAxAhecxHMdViLU2xjC4_DOKHoH",
+		Endpoint: "https://message-queue.api.cloud.yandex.net",
+		//URL:      "https://message-queue.api.cloud.yandex.net/b1g8fp34kitmv2q6kesr/dj6000000005cpe706ht/test2", // test2
+		URL: "https://message-queue.api.cloud.yandex.net/b1g8fp34kitmv2q6kesr/dj6000000001uq3i06ht/test", // test
+		//URL:    "https://message-queue.api.cloud.yandex.net/b1g8fp34kitmv2q6kesr/dj6000000005a44r06ht/offer-check", // боевой offer-check
+		Region: "ru-central1",
+	}
+}
+
 func main() {
 
 	sendMessages() // отправить сообщения в очередь
@@ -30,10 +42,12 @@ func main() {
 // послать сообщения
 func sendMessages() {
 	msgs := []string{
-		`{"1":"http://4000.99.adscompass.ru","2": ["DK", "CA", "FR", "IT", "BE", "SE"],"3":""}`,
-		//`{"1":"http://4000.99.adscompass.ru","2": ["CA"],"3":""}`,
-		`{"1":"http://3000.99.adscompass.ru","2": ["US", "PL", "JP", "AT", "GB", "BR"],"3":"testKey"}`,
-		//`{"1":"http://3000.99.adscompass.ru","2": ["DK"],"3":"testKey"}`,
+		//`{"url":"http://4000.99.adscompass.ru","country_list": ["DK", "CA", "FR", "IT", "BE", "SE"],"pattern":"","platform_list":["Windows"],"tags": {"offer_id": 6, "url_type": "main", "url_name": "link4"}}`,
+		//`{"url":"http://4000.99.adscompass.ru","country_list": ["CA", "DK", "FR"],"pattern":"testKey", "platform_list":["Windows","Linux"],"tags": {"offer_id": 6, "url_type": "main", "url_name": "link4"}}`,
+		`{"url":"http://4000.99.adscompass.ru","country_list": ["CA"],"pattern":"testKey", "platform_list":["Windows"],"tags": {"offer_id": 6, "url_type": "main", "url_name": "link4"}}`,
+		//`{"url":"http://3000.99.adscompass.ru","country_list": ["US", "PL", "JP", "AT", "GB", "BR"],"pattern":"testKey","platform_list":["Linux"],"tags": {"offer_id": 6, "url_type": "main", "url_name": "link4"}}`,
+		//`{"url":"http://3000.99.adscompass.ru","country_list": ["CA", "DK"],"pattern":"testKey","platform_list":["Linux"],"tags": {"offer_id": 6, "url_type": "main", "url_name": "link4"}}`,
+		//`{"url":"https://nataliedate.com/wizard-man?utm_source=GoldLead&linkid=42224&clickid={clickid}&web_id={web_id}&sub_id={sub_id}","country_list": ["RU"],"pattern":"testKey","platform_list":["Linux"],"tags": {"offer_id": 6, "url_type": "main", "url_name": "link4"}}`,
 	}
 	for _, msg := range msgs {
 		sendMessage(msg)
@@ -42,14 +56,7 @@ func sendMessages() {
 
 // послать сообщение
 func sendMessage(msg string) {
-	q := Queue{
-		Key:      "adIPS2V8TcN8W3EierJW",
-		Secret:   "f_F21HW-adAsYoAxAhecxHMdViLU2xjC4_DOKHoH",
-		Endpoint: "https://message-queue.api.cloud.yandex.net",
-		URL:      "https://message-queue.api.cloud.yandex.net/b1g8fp34kitmv2q6kesr/dj6000000001uq3i06ht/test",
-		Region:   "ru-central1",
-	}
-
+	q := queueParams()
 	sess, err := session.NewSession(&aws.Config{
 		Credentials: credentials.NewStaticCredentials(q.Key, q.Secret, ""),
 		Endpoint:    aws.String(q.Endpoint),
@@ -78,13 +85,7 @@ func sendMessage(msg string) {
 
 // получить сообщение
 func receiveMessage(del bool) {
-	q := Queue{
-		Key:      "adIPS2V8TcN8W3EierJW",
-		Secret:   "f_F21HW-adAsYoAxAhecxHMdViLU2xjC4_DOKHoH",
-		Endpoint: "https://message-queue.api.cloud.yandex.net",
-		URL:      "https://message-queue.api.cloud.yandex.net/b1g8fp34kitmv2q6kesr/dj6000000001uq3i06ht/test",
-		Region:   "ru-central1",
-	}
+	q := queueParams()
 	sess, err := session.NewSession(&aws.Config{
 		Credentials: credentials.NewStaticCredentials(q.Key, q.Secret, ""),
 		Endpoint:    aws.String(q.Endpoint),

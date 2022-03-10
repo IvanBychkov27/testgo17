@@ -13,6 +13,7 @@ require (
 	github.com/garyburd/redigo v1.6.2
 	github.com/hashicorp/hcl/v2 v2.10.1
 	github.com/ip2location/ip2location-go/v9 v9.1.0
+	github.com/pquerna/otp v1.3.0
 	github.com/stretchr/testify v1.7.0
 	github.com/valyala/fasthttp v1.30.0
 	github.com/valyala/tcplisten v1.0.0
@@ -21,6 +22,7 @@ require (
 	gitlab.com/adscompass/f51degrees v1.0.0
 	go.uber.org/zap v1.19.0
 	golang.org/x/crypto v0.0.0-20210513164829-c07d793c2f9a
+	golang.org/x/term v0.0.0-20201126162022-7de9c90e9dd1
 	gonum.org/v1/gonum v0.9.3
 )
 
@@ -29,6 +31,7 @@ require (
 	github.com/agext/levenshtein v1.2.1 // indirect
 	github.com/andybalholm/brotli v1.0.2 // indirect
 	github.com/apparentlymart/go-textseg/v13 v13.0.0 // indirect
+	github.com/boombuler/barcode v1.0.1-0.20190219062509-6c824513bacc // indirect
 	github.com/chromedp/sysutil v1.0.0 // indirect
 	github.com/davecgh/go-spew v1.1.1 // indirect
 	github.com/gobwas/httphead v0.1.0 // indirect
