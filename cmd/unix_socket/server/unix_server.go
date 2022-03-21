@@ -20,7 +20,7 @@ func echoServer(unixClient net.Conn) {
 		buf := make([]byte, 10)
 		n, err := unixClient.Read(buf)
 		if err != nil {
-			if err.Error() != "EOF" {
+			if err != io.EOF {
 				log.Println("error read:", err.Error())
 			}
 			return
