@@ -9,6 +9,7 @@ require (
 	github.com/aws/aws-sdk-go v1.42.45
 	github.com/chromedp/cdproto v0.0.0-20220204211718-0109d952cae2
 	github.com/chromedp/chromedp v0.7.7
+	github.com/cristalhq/aconfig v0.16.8
 	github.com/fatih/color v1.12.0
 	github.com/fxsjy/gonn v0.0.0-20160129023951-bb82a6c319ea
 	github.com/garyburd/redigo v1.6.2

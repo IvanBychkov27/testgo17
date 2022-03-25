@@ -10,9 +10,13 @@ func main() {
 }
 
 func a() {
-	//   1234567890123456789
-	d := 100000000000000000
-	fmt.Println("d =", d*100)
+	d := 5
+
+	for d > 0 {
+		d--
+		fmt.Println(d)
+	}
+
 }
 
 type data struct {
