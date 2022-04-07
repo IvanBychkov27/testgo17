@@ -1,3 +1,7 @@
+// https://habr.com/ru/company/southbridge/blog/455290/
+// https://hamsterden.ru/prometheus-deleting-time-series-metrics/
+// https://prometheus.io/docs/prometheus/latest/querying/api/
+
 // https://eax.me/golang-prometheus-metrics/
 // https://pkg.go.dev/github.com/VictoriaMetrics/metrics#example-Counter-Vec
 package main

@@ -17,6 +17,7 @@ require (
 	github.com/ip2location/ip2location-go/v9 v9.1.0
 	github.com/pquerna/otp v1.3.0
 	github.com/prometheus/client_golang v1.12.1
+	github.com/robfig/cron/v3 v3.0.1
 	github.com/stretchr/testify v1.7.0
 	github.com/valyala/fasthttp v1.30.0
 	github.com/valyala/tcplisten v1.0.0
