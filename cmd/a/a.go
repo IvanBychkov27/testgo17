@@ -6,30 +6,31 @@ import (
 	"fmt"
 	"strconv"
 	"sync"
-	"time"
 )
 
 func main() {
-
-	deadline()
+	c()
 }
 
-func deadline() {
-	const timeoutSelf time.Duration = 20 * time.Millisecond
+func c() {
+	data := []int{1, 2, 3, 4, 5}
+	//data := []int{}
 
-	timeout := 220 * time.Millisecond
-	tm := timeout - timeoutSelf
-	fmt.Println("tm =", tm)
+	data = nil
 
-	t := time.Now()
-	fmt.Println("t1 =", t)
+	fmt.Println("len(data) =", len(data))
 
-	t = t.Add(tm)
-	fmt.Println("t2 =", t)
+	for i, d := range data {
+		fmt.Printf("i = %d, d = %d \n", i, d)
+	}
 
-	//tDeadline := t.UnixMicro()
-	//fmt.Println("tDeadline =", tDeadline)
+	if data == nil {
+		fmt.Println("data = nil")
+		data = append(data, 100)
+	}
 
+	fmt.Println("data =", data)
+	fmt.Println("Done")
 }
 
 func a() {
