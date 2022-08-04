@@ -23,13 +23,21 @@ func main() {
 	var message string
 
 	//hookUrl := "https://hooks.slack.com/services/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"
-	hookUrl := "https://hooks.slack.com/services/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"
+	//hookUrl := "https://hooks.slack.com/services/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"
+	hookUrl := "https://hooks.slack.com/services/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"
 	message = "message bot iv"
 
 	playload := map[string]interface{}{
-		"username": "bot-iv",
+		"username": "bot-iv5",
 		"text":     message,
+		//"icon_emoji": ":heavy_check_mark:",
+		"icon_emoji": ":ghost:",
 	}
+
+	/* см список эмодзи:
+	   https://slackmojis.com/
+	   https://lesswrong.ru/wiki/%D0%A1%D0%BF%D0%B8%D1%81%D0%BE%D0%BA_%D1%8D%D0%BC%D0%BE%D0%B4%D0%B7%D0%B8_Slack-%D1%87%D0%B0%D1%82%D0%B0?ysclid=l6bymx604v630507163
+	*/
 
 	bodyString, _ := sendPostJson(hookUrl, playload)
 	log.Println("body", bodyString)

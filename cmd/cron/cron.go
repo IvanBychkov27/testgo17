@@ -61,3 +61,21 @@ func ticker(sig chan struct{}) {
 	//log.Println("channel...")
 	sig <- struct{}{}
 }
+
+// сбрасывает у списка юзеров в БД флаг online
+//func (app *Application) ClearUser(ctx context.Context, wg *sync.WaitGroup) {
+//	defer wg.Done()
+//
+//	cron := cronPkg.New()
+//	_, errCron := cron.AddFunc(app.cfg.ClearUsers, app.clear)
+//	if errCron != nil {
+//		app.logger.Error("error add func to cron", zap.Error(errCron))
+//		return
+//	}
+//
+//	cron.Start()
+//
+//	<-ctx.Done()
+//
+//	cron.Stop()
+//}
